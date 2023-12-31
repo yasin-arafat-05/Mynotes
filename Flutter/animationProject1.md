@@ -1,6 +1,6 @@
 # Animation Project One (Used Widget)
 
-## Rive Animation Tool In Flutter 
+## Rive Animation Tool In Flutter:
 - Rive 
     - Rive [https://rive.app/]
     - [dev](https://pub.dev/packages/rive)

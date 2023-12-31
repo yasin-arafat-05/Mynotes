@@ -39,6 +39,8 @@ After installation and securing, you can access the MySQL shell using the follow
 mysql -u root -p
 ```
 
+`For my arch distro the root user password is (b5***)`
+
 You will be prompted to enter the root password you set during the secure installation.
 
 ### Running MySQL Commands:

@@ -22,6 +22,9 @@
 
 - ShowGeneralDialog Method [Dev](https://api.flutter.dev/flutter/widgets/showGeneralDialog.html)   [Video](https://www.youtube.com/watch?v=WQC50wCrL2o)
 
+
+  
+<br><br>
 ## Details about -> ShowGeneralDialog Method
 The `showGeneralDialog` function in Flutter is used to display a general-purpose dialog. It is a more customizable version of the basic `showDialog` function. Here's an explanation of the parameters you mentioned:
 
@@ -42,5 +45,6 @@ The `showGeneralDialog` function in Flutter is used to display a general-purpose
    - You can provide a function that takes a `BuildContext`, `Animation<double>`, `Animation<double>`, and a `Widget` and returns a `Widget`. This gives you control over the animation during the transition.
 
 
-
+<br><br>
+- Divider [dev](https://api.flutter.dev/flutter/material/Divider-class.html)
   

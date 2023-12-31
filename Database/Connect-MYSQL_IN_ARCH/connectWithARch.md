@@ -1,6 +1,6 @@
  <br>
 
-# __________ RUN MYSQL COMMAND ON ARCH LINUX __________
+# ________ RUN MYSQL COMMAND ON ARCH LINUX ________
 
 <br>
 
@@ -59,7 +59,7 @@ EXIT;
 
 <br>
 
-# __________ How Many Users Are In `Your` MYSQL SERVER __________
+# ______ How Many Users Are In `Your` MYSQL SERVER ________
 
 <br>
 

@@ -56,4 +56,4 @@ The `showGeneralDialog` function in Flutter is used to display a general-purpose
 
 - Tween [dev](https://api.flutter.dev/flutter/animation/Tween-class.html) [video](https://api.flutter.dev/flutter/animation/Tween-class.html)
 
-- 
+- SlideTransition [dev](https://api.flutter.dev/flutter/widgets/SlideTransition-class.html)

@@ -42,14 +42,14 @@ Here, $\( \rho_1 \)$ and $\( \rho_2 \)$ are the densities of the fluid at points
 
 # Application of Bernoull's equation: 
 
-i) Atomiser or spryer
-ii) Bunsen Burner
-iii) Blowing of Roofs
-iv) Carburettor
-v) The attacted disk paradox
-vi) The filter pump
-vii) The stream injector
-viii) The ventural tube 
-ix) Lift of an Aeroplane.
-x) Speed of efflux 
-xi) Pitot tube 
+i) Atomiser or spryer <br>
+ii) Bunsen Burner <br>
+iii) Blowing of Roofs <br>
+iv) Carburettor <br>
+v) The attacted disk paradox <br>
+vi) The filter pump <br>
+vii) The stream injector <br>
+viii) The ventural tube  <br>
+ix) Lift of an Aeroplane. <br>
+x) Speed of efflux <br>
+xi) Pitot tube <br>

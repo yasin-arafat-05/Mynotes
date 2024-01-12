@@ -79,14 +79,12 @@ The negative sign signifies that the force is exerted in the opposite direction 
 
 ### i) Young's Modulus (Tensile Elasticity):
 **Definition:**
-Young's Modulus, often referred to as the modulus of elasticity or tensile modulus, is a measure of a material's stiffness in response to axial or tensile forces.
-
+    ![](/Academic/photo/elasticity02.png)
 **Explanation:**
-When a material is subjected to tensile (pulling or stretching) forces, it undergoes deformation. Young's Modulus (\(E\)) is defined as the ratio of stress (\(\sigma\)) to strain (\(\varepsilon\)) in the linear elastic region of the material. Mathematically, it's expressed as:
+When a material is subjected to tensile (pulling or stretching) forces, it undergoes deformation. Young's Modulus (\(E\)) is defined as the ratio of stress $(\(\sigma\))$ to strain $(\(\varepsilon\))$ in the linear elastic region of the material. Mathematically, it's expressed as:
 
 $\[ E = \frac{\sigma}{\varepsilon} \]$
 
-A higher Young's Modulus indicates a stiffer material, meaning it requires more force to produce a given amount of deformation. Young's Modulus is commonly used in the design of structures where understanding how materials respond to tensile forces is essential.
 
 ### ii) Bulk Modulus (Volume Elasticity):
 **Definition:**

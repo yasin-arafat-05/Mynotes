@@ -10,6 +10,17 @@ The property by virtue(এই ধরনের গুন) of which a body regains
 
 # Different kinds of stress
 
-Defination: A stress measures the effectiveness() of a force in producing deformation, stress is always defined as the force exerted() per unit area of the body(F/A).
+** Defination : ** A stress measures the effectiveness(কার্যকারিতা) of a force in producing deformation, stress is always defined as the force exerted(প্রয়োগ) per unit area of the body(F/A).
+
+** Kinds of stress :  **
+
+Stress is generally divided into three types:
+
+i) ** Tensile or Longitudinal Stress : ** It is the stretching force acting per unit area of the section of the solid acting in the direction of its length.
+
+ii) ** Compressive or volume stress : **  It is the uniform force acting per unit area on the faces of a cube.
+
+iii) ** Shearing or Tangetial Stress : ** It is the force acting tangentially per unit area on teh body. 
+
 
 

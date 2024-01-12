@@ -57,6 +57,14 @@ Where:
 - $\(L\)$ is the original length perpendicular to the applied force.
 
 
+# Hooke's Law:
 
+![Alt text](image.png)
 
+**Definition:**
+Hooke's Law is a fundamental principle in physics that states the force required to extend or compress a spring by some distance is directly proportional to that distance, provided the elastic limit of the material is not exceeded.
 
+**Explanation:**
+Hooke's Law provides a simple and accurate description of the behavior of elastic materials, such as springs, when subjected to forces that cause deformation. The law mathematically expresses the linear relationship between the force applied to a spring $(\(F\))$, the displacement of the spring from its equilibrium position $(\(x\))$, and the spring constant $(\(k\))$.
+
+The equation $\(F = -k \cdot x\)$ signifies that the force $(\(F\))$ exerted by the spring is proportional to the displacement $(\(x\))$, and the negative sign indicates that the force acts in the opposite direction to the displacement. This negative sign aligns with the intuitive understanding that a spring exerts a force to restore itself to its equilibrium position.

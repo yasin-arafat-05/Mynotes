@@ -62,7 +62,7 @@ Where:
 ![Alt text](image.png)
 
 **Definition:**
-Hooke's Law is a fundamental principle in physics that states the force required to extend or compress a spring by some distance is directly proportional to that distance, provided the elastic limit of the material is not exceeded.
+Hooke's Law is a foundational principle in physics, stating that, within the elastic limit, the force required to deform a material by a certain distance is directly proportional to that distance.
 
 **Explanation:**
 Hooke's Law provides a simple and accurate description of the behavior of elastic materials, such as springs, when subjected to forces that cause deformation. The law mathematically expresses the linear relationship between the force applied to a spring $(\(F\))$, the displacement of the spring from its equilibrium position $(\(x\))$, and the spring constant $(\(k\))$.

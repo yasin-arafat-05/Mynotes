@@ -38,3 +38,18 @@ Here, $\( \rho_1 \)$ and $\( \rho_2 \)$ are the densities of the fluid at points
 # Bernoull's equation derivation: 
 
 [Bernoull's Euation:](https://byjus.com/physics/bernoullis-principle/)
+
+
+# Application of Bernoull's equation: 
+
+i) Atomiser or spryer
+ii) Bunsen Burner
+iii) Blowing of Roofs
+iv) Carburettor
+v) The attacted disk paradox
+vi) The filter pump
+vii) The stream injector
+viii) The ventural tube 
+ix) Lift of an Aeroplane.
+x) Speed of efflux 
+xi) Pitot tube 

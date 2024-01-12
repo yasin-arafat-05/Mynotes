@@ -35,3 +35,6 @@ Here, $\( \rho_1 \)$ and $\( \rho_2 \)$ are the densities of the fluid at points
 ![ans - example](/Academic/photo/hydrodynamics01.png)
 
 
+# Bernoull's equation derivation: 
+
+![Bernoull's Euation:](https://byjus.com/physics/bernoullis-principle/)

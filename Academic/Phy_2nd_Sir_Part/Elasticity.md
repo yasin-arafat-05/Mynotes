@@ -65,7 +65,7 @@ Where:
 Hooke's Law is a foundational principle in physics, stating that, within the elastic limit, the force required to deform a material by a certain distance is directly proportional to that distance.
 
 **Explanation:**
-Hooke's Law applies to a wide range of elastic materials. Let's consider a generic elastic material (not necessarily a spring) experiencing deformation. The law can be expressed as &\(F = -k \cdot x\)$, where:
+Hooke's Law applies to a wide range of elastic materials. Let's consider a generic elastic material (not necessarily a spring) experiencing deformation. The law can be expressed as $\(F = -k \cdot x\)$, where:
 
 - $\(F\)$ is the force applied to the material.
 - $\(k\)$ is the material's elastic constant, a measure of its stiffness.

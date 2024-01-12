@@ -37,4 +37,4 @@ Here, $\( \rho_1 \)$ and $\( \rho_2 \)$ are the densities of the fluid at points
 
 # Bernoull's equation derivation: 
 
-![Bernoull's Euation:](https://byjus.com/physics/bernoullis-principle/)
+[Bernoull's Euation:](https://byjus.com/physics/bernoullis-principle/)

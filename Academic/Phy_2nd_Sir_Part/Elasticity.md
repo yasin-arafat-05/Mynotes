@@ -30,16 +30,31 @@ iii) **Shearing or Tangetial Stress :** It is the force acting tangentially per 
 
 ### Strain is generally divided into three types:
 
-Shearing strain, denoted by the symbol \(γ\) (gamma), is a measure of the change in shape or distortion experienced by a material when subjected to an applied force parallel to one of its surfaces.
+
+**Defination:** A strain is a measure of deformation.  It is always define as the change in length per unit length.
+
+**Types of strain:**
+
+There are mainly 3 types of strain. 
+
+i) **Tensile or longitudinal strain:** It is the change of length per unit length in the dirction of the length of a rod,
+        longitudinal Starain = l/L
+where, l is the change produced in this length and L is the orginal length.
+
+
+ii) **Volume Strain or Bulk Strain:**  Volume strain is a measure of the change in volume experienced by a material when is subjected to an external force or stress. It is defined as the ratio of the change in volume (ΔV) to the original volume (V) of the material.
+    Volume Strain = del V/V.
+    
+iii) **Shearing Strain:**  Shearing strain, denoted by the symbol \(γ\) (gamma), is a measure of the change in shape or distortion experienced by a material when subjected to an applied force parallel to one of its surfaces.
 
 Shearing strain is defined as the angular deformation per unit length and is often expressed as a dimensionless quantity. The formula for shearing strain (\(γ\)) is given by:
 
 $\[ γ = \frac{\Delta x}{L} \]$
 
 Where:
-- \(γ\) is the shearing strain.
-- \(\Delta x\) is the displacement parallel to the applied force.
-- \(L\) is the original length perpendicular to the applied force.
+- $\(γ\)$ is the shearing strain.
+- $\(\Delta x\)$ is the displacement parallel to the applied force.
+- $\(L\)$ is the original length perpendicular to the applied force.
 
 
 

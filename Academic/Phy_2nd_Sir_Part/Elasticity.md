@@ -14,7 +14,7 @@ The property by virtue(এই ধরনের গুন) of which a body regains
 
 **Kinds of stress :**
 
-Stress is generally divided into three types:
+### Stress is generally divided into three types:
 
 i) **Tensile or Longitudinal Stress :** It is the stretching force acting per unit area of the section of the solid acting in the direction of its length.
 
@@ -25,7 +25,23 @@ ii) **Compressive or volume stress :**  It is the uniform force acting per unit 
 
 
 
-iii) **Shearing or Tangetial Stress :** It is the force acting tangentially per unit area on teh body. 
+iii) **Shearing or Tangetial Stress :** It is the force acting tangentially per unit area on the body. 
+
+
+### Strain is generally divided into three types:
+
+Shearing strain, denoted by the symbol \(γ\) (gamma), is a measure of the change in shape or distortion experienced by a material when subjected to an applied force parallel to one of its surfaces.
+
+Shearing strain is defined as the angular deformation per unit length and is often expressed as a dimensionless quantity. The formula for shearing strain (\(γ\)) is given by:
+
+$\[ γ = \frac{\Delta x}{L} \]$
+
+Where:
+- \(γ\) is the shearing strain.
+- \(\Delta x\) is the displacement parallel to the applied force.
+- \(L\) is the original length perpendicular to the applied force.
+
+
 
 
 

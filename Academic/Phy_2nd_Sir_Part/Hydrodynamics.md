@@ -34,4 +34,6 @@ $\[ A_1 \cdot \rho_1 \cdot V_1 = A_2 \cdot \rho_2 \cdot V_2 \]$
 
 Here, $\( \rho_1 \)$ and $\( \rho_2 \)$ are the densities of the fluid at points 1 and 2, respectively. The equation still upholds the concept of mass conservation but accounts for changes in density within the fluid.
 
+[ans - example](/Academic/photo/hydrodynamics01.png)
+
 

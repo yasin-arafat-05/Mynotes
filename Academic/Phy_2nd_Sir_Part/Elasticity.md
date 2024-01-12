@@ -59,7 +59,7 @@ Where:
 
 # Hooke's Law:
 
-![Alt text](image.png)
+![Alt text](/Academic/photo/image.png)
 
 **Definition:**
 Hooke's Law is a foundational principle in physics, stating that, within the elastic limit, the force required to deform a material by a certain distance is directly proportional to that distance.
@@ -84,7 +84,7 @@ Young's Modulus, often referred to as the modulus of elasticity or tensile modul
 **Explanation:**
 When a material is subjected to tensile (pulling or stretching) forces, it undergoes deformation. Young's Modulus (\(E\)) is defined as the ratio of stress (\(\sigma\)) to strain (\(\varepsilon\)) in the linear elastic region of the material. Mathematically, it's expressed as:
 
-\[ E = \frac{\sigma}{\varepsilon} \]
+$\[ E = \frac{\sigma}{\varepsilon} \]$
 
 A higher Young's Modulus indicates a stiffer material, meaning it requires more force to produce a given amount of deformation. Young's Modulus is commonly used in the design of structures where understanding how materials respond to tensile forces is essential.
 

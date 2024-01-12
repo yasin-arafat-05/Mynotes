@@ -17,7 +17,7 @@
 
 # Surface Energy and surface flim:
 
-![Alt text](image-1.png)
+![Alt text](/Academic/photo/image-1.png)
 
 Certainly, let's define surface film and surface energy:
 

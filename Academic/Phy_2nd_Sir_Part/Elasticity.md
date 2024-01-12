@@ -79,7 +79,9 @@ The negative sign signifies that the force is exerted in the opposite direction 
 
 ### i) Young's Modulus (Tensile Elasticity):
 **Definition:**
-    ![](/Academic/photo/elasticity02.png)
+
+![elasticity pick2](/Academic/photo/elasticity02.png)
+
 **Explanation:**
 When a material is subjected to tensile (pulling or stretching) forces, it undergoes deformation. Young's Modulus (\(E\)) is defined as the ratio of stress $(\(\sigma\))$ to strain $(\(\varepsilon\))$ in the linear elastic region of the material. Mathematically, it's expressed as:
 

@@ -21,7 +21,7 @@ i) **Tensile or Longitudinal Stress :** It is the stretching force acting per un
 ii) **Compressive or volume stress :**  It is the uniform force acting per unit area on the faces of a cube.
 
 
-![Elasticity Photo Number One](/Academic/photo/elasticity01.png,)
+![Elasticity Photo Number One](/Academic/photo/elasticity01.png)
 
 
 

@@ -13,3 +13,16 @@
 
 
 [soap derivation](https://www.vedantu.com/question-answer/give-the-expression-for-the-excess-pressure-in-a-class-11-physics-cbse-5f92b2e0f00fb52b327bb9f4)
+
+
+# Surface Energy and surface flim:
+
+![Alt text](image-1.png)
+
+Certainly, let's define surface film and surface energy:
+
+ **Surface Energy**:
+   - **Definition**: Surface energy is the amount of work that must be done to increase the surface area of a liquid or solid by a unit amount. It is a measure of the energy required to expose additional surface of a material.
+   
+   - **Explanation**: At the molecular level, particles on the surface of a material have higher energy compared to those in the bulk. This difference in energy is due to the unbalanced forces at the surface. Surface energy is an important factor in determining the behavior of liquids and solids. It influences phenomena such as wetting, spreading, and adhesion. Materials with lower surface energy tend to repel liquids, while those with higher surface energy may readily interact with and be wetted by liquids.
+

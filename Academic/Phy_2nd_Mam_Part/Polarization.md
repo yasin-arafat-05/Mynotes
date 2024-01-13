@@ -35,3 +35,10 @@ There are several types of polarization, each characterized by the specific arra
 # Polarization by reflection:
 
 ![Polarization by reflection](/Academic/Phy_2nd_Mam_Part/images/polarization01.jpeg)
+
+
+![Polarization by reflection](/Academic/Phy_2nd_Mam_Part/images/polarization02.jpeg)
+
+
+![Polarization by reflection](/Academic/Phy_2nd_Mam_Part/images/polarization03.jpeg)
+

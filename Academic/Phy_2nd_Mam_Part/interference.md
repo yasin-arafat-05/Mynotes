@@ -91,3 +91,10 @@ Interpretation:
 - When $\( \Delta \phi \)$ is a multiple of $\( 2 \pi \)$, the waves are in phase.
 - When $\( \Delta \phi \)$ is an odd multiple of $\( \pi \)$, the waves are in antiphase (180 degrees out of phase).
 - When $\( \Delta \phi \)$ is an even multiple of $\( \pi \)$, the waves are in phase again.
+
+
+
+
+# Analytical treatment of interference: 
+
+Let a source(s) of monochoromatic light of wavelength of $\( \lambda \)$ and two pinholes A and B are equidistance from source s. Now, the source A and B are behaved as coherent source and the distance between of them is d and the distance between source and display is D. Let, a be amplitude of these waves. The phase difference between two wave reaching the point P, at any instant $\( \Delta \)$ . 

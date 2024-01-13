@@ -31,3 +31,7 @@ There are several types of polarization, each characterized by the specific arra
 
    - **Representation**: Represented using an ellipse to show the shape and orientation of the oscillation path.
 
+
+# Polarization by reflection:
+
+![Polarization by reflection](/Academic/Phy_2nd_Mam_Part/images/polarization01.jpeg)

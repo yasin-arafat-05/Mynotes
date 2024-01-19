@@ -14,3 +14,17 @@ A transistor (pnp or npn) has three sections of doped semiconductors. The sectio
 emitter and the section on the opposite side is the collector. The middle section is called the base and
 forms two junctions between the emitter and collector.
 
+i)  **Emitter:** The section on one side that supplies charge carriers (electrons or holes) is
+called the emitter. The emitter is always forward biased w.r.t. base so that it can supply a
+large number of *majority carriers. In Fig. 8.2 (i), the emitter (p-type) of pnp transistor is forward
+biased and supplies hole charges to its junction with the base.
+
+![Alt text](image-4.png)
+
+ii) Collector. The section on the other side that collects the charges is called the collector. The
+collector is always reverse biased.
+
+iii) Base. The middle section which forms two pn-junctions between the emitter and collector
+is called the base.
+
+

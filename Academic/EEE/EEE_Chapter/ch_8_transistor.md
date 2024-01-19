@@ -28,5 +28,31 @@ iii) **Base:** The middle section which forms two pn-junctions between the emitt
 is called the base.
 
 
+#  Transistor Circuit as an Amplifier:
 
+
+# Transistor Connections:
+
+ A transistor can be connected in a circuit in the following three ways :
+    
+    i) Common Base connection
+    ii) Common Emitter connection
+    iii) Common collector connection
+
+
+# Common Base Connection: 
+
+In this circuit arrangement, input is applied between emitter and base and output is taken from collector and base. Here, base of the transistor is common to both input and output circuits and hence the name common base connection. In Fig. 8.9 (i), a common base npn transistor circuit is shown whereas
+Fig. 8.9 (ii) shows the common base pnp transistor circuit.
+
+![Alt text](image-5.png)
+
+
+**Current amplification factor (α)** It is the ratio of output current to input current. In a
+common base connection, the input current is the emitter current IE and output current is the collector
+current IC. It is denoted by α . The mathematical representaion of α is 
+
+$\[ \alpha = \frac{\Delta I_C}{\Delta I_E} \]$
+
+Practical values of α in commercial transistors range from 0.9 to 0.99.
 

@@ -160,4 +160,27 @@ $\[ r_i = \frac{ΔV_{BE}}{ΔI_B} \]$
 
  ![Alt text](image-13.png)
 
- 
+ i) The collector current $(I_{C})$ varies with $(V_{CE})$ for $(V_{CE})$ between 0 and 1V only. After this, collector current becomes almost constant and independent of $(V_{CE})$. This value of $(V_{CE})$ upto which collector current $(I_{C})$ changes with VCE is called the knee voltage (Vknee). The transistors are always operated in the region above knee voltage.
+
+
+ ii) Above knee voltage, $(I_{C})$ is almost constant. For any value of $(V_{CE})$ above knee voltage, the collector current $(I_{C})$ is approximately equl to β × $(I_{B})$ .
+
+
+ **Ouput Resistance Formula:**
+Output resistance $(\(r_out\))$ is defined as the ratio of the change in collector-emitter voltage $(\(ΔV_{CE}\))$ to the change in collector current $(\(ΔI_C\))$ at constant Base current $(\(I_{B}\))$. The formula is expressed as:
+$\[ r_out = \frac{ΔV_{CE}}{ΔI_C} \]$
+
+
+# Common Collector Connection:
+
+![Alt text](image-15.png)
+
+**Relation between γ and α:** and **expresion for collector current**
+
+![Alt text](image-16.png)
+
+# Comparison of Transistor Connections:
+
+![Alt text](image-14.png)
+
+# Transistors Versus Vacuum Tubes

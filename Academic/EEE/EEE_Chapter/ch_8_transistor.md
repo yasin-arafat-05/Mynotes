@@ -96,4 +96,13 @@ It is the curve between collector current $I_{C}$ and collector-base voltage $V_
 The following points may be noted from the characteristics :
 
 
+i) The collector current IC varies with $V_{CB}$ only at very low voltages ( < 1V). The transistor is never operated in this region.(For the lecakge current).
+
+ii) When the value of $V_{CB}$ is raised above 1 − 2 V, the collector current becomes constant. It means that now $I_{C}$  is independent of $V_{CB}$ and depends upon $I_{E}$ only.
+
+iii) A very large change in collector-base voltage produces only a tiny change in collector current. This means that output resistance is very high.
+
+**Output Resistance:** It is the ratio of change in collector-base voltage $(ΔV_{CB})$ to the resulting change in collector current (ΔIC) at constant emitter current,
+
+$\[ r_{out} = \frac{\Delta V_{CE}}{\Delta I_C} \]$
 

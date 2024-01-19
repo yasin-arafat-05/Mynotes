@@ -56,3 +56,12 @@ $\[ \alpha = \frac{\Delta I_C}{\Delta I_E} \]$
 
 Practical values of α in commercial transistors range from 0.9 to 0.99.
 
+**Expression for collector current:**
+The whole of emitter current does not reach the collector. It is because a small percentage of it, as a result of electron-hole combinations occurring in base area. Moreover, as the collector-base junction is reverse biased, therefore, some leakage current flows due to minority carriers. 
+
+Let, 
+
+![Alt text](image-6.png)
+
+Therefore, the expression for collector current is  ... 
+

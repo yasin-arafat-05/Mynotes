@@ -70,7 +70,7 @@ Therefore, the expression for collector current is  ...
 The most important characteristics of common base connection are input characteristics and output characteristics.
 
 i) **input charavteristic:** 
-It is the curve between emitter current IE and emitter-base voltage VEB at constant collector-base voltage VCB. The emitter current is generally taken along y-axis and emitter-base voltage along x-axis. Fig. 8.14 shows the input characteristics of a typical transistor in CB arrangement . The following points may be noted from these characteristics :
+It is the curve between emitter current $I_{E}$ and emitter-base voltage $V_{EB}$ at constant collector-base voltage $V_{CB}$. The emitter current is generally taken along y-axis and emitter-base voltage along x-axis. Fig. 8.14 shows the input characteristics of a typical transistor in CB arrangement . The following points may be noted from these characteristics :
 
 ![Alt text](image-7.png)
 
@@ -107,3 +107,49 @@ iii) A very large change in collector-base voltage produces only a tiny change i
 
 $\[ r_{out} = \frac{\Delta V_{CE}}{\Delta I_C} \]$
 
+
+# Common Emitter Connection: 
+
+In this circuit arrangement, input is applied between base and emitter and output is taken from the
+collector and emitter. Here, emitter of the transistor is common to both input and output circuits and
+hence the name common emitter connection. Fig. 8.16 (i) shows common emitter npn transistor
+circuit whereas Fig. 8.16 (ii) shows common emitter pnp transistor circuit
+
+![Alt text](image-9.png)
+
+
+**Base current amplification factor ( β):** In common emitter connection, input current is IB
+and output current is $I_{C}$ .The ratio of change in collector current (ΔIC) to the change in base current (ΔIB) is known as base current amplification factor.
+
+### **Relation between β and α:** 
+
+![Alt text](image-10.png)
+
+### **Expression for collector current:**
+
+![Alt text](image-11.png)
+
+### Characteristics of common emitter connection:
+
+The most important characteristics of common emitter connection are input characteristics and output characteristics.
+
+**Input characteristics:** 
+
+It is the curve between base current $I_{B}$ and emitter-base voltage $V_{EB}$ at constant collector-emitter voltage $V_{CE}$. The base current is generally taken along y-axis and emitter-base voltage along x-axis. Fig. 8.30 shows the input characteristics of a transistor in CE arrangement . The following points may be noted from these characteristics :
+
+![Alt text](image-12.png)
+
+i)  When the collector-base voltage $(\(V_{CB}\))$ is increased:
+
+1. The reverse bias across the collector-emittor junction increases.
+2. This increased reverse bias causes the depletion region at the collector-base junction to widen.
+3. As a result, the effective width of the base region decreases.
+
+This narrowing of the base region decrease the efficiency of the transistor as a current. The reduced width allows more electrons to diffuse across the narrow base region and reach the collector, contributing to an decrease in the base current $(\(I_B\))$.
+
+ii) As compare to the Common-Base $(CB)$ arrangement, the increase in base current $(\(I_B\))$ with base-emitter voltage $(\(V_{BE}\))$ is less rapid in the Common-Emitter (CE) circuit.
+Therefore, the input resistance of a CE circuit is higher than that of a CB circuit.
+
+**Input Resistance Formula:**
+Input resistance $(\(r_i\))$ is defined as the ratio of the change in base-emitter voltage $(\(ΔV_{BE}\))$ to the change in base current $(\(ΔI_B\))$ at constant collector-emitter voltage $(\(V_{CE}\))$. The formula is expressed as:
+$\[ r_i = \frac{ΔV_{BE}}{ΔI_B} \]$

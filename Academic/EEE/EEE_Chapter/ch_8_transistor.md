@@ -76,5 +76,13 @@ It is the curve between emitter current IE and emitter-base voltage VEB at const
 
 (i) The emitter current IE increases rapidly with small increase in emitter-base voltage VEB. It means that input resistance is very small.
 
-(ii) The emitter current is almost independent of collector-base voltage VCB. This leads to the conclusion that emitter current (and hence collector current) is almost independent of collector voltage.
+(ii) When the collector-base voltage $(\(V_{CB}\))$ is increased:
+
+1. The reverse bias across the collector-base junction increases.
+2. This increased reverse bias causes the depletion region at the collector-base junction to widen.
+3. As a result, the effective width of the base region decreases.
+
+This narrowing of the base region enhances the efficiency of the transistor as a current amplifier. The reduced width allows more electrons to diffuse across the narrow base region and reach the collector, contributing to an increase in collector current $(\(I_C\))$.
+
+
 

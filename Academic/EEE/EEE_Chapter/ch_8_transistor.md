@@ -50,11 +50,11 @@ Fig. 8.9 (ii) shows the common base pnp transistor circuit.
 
 **Current amplification factor (α)** It is the ratio of output current to input current. In a
 common base connection, the input current is the emitter current IE and output current is the collector
-current IC. It is denoted by α . The mathematical representaion of α is 
+current IC. The current amplification factor is denoted by α . The mathematical representaion of α is 
 
 $\[ \alpha = \frac{\Delta I_C}{\Delta I_E} \]$
 
-Practical values of α in commercial transistors range from 0.9 to 0.99.
+Practical values of α in commercial transistors range from 0.1 to 0.99.
 
 **Expression for collector current:**
 The whole of emitter current does not reach the collector. It is because a small percentage of it, as a result of electron-hole combinations occurring in base area. Moreover, as the collector-base junction is reverse biased, therefore, some leakage current flows due to minority carriers. 
@@ -65,3 +65,9 @@ Let,
 
 Therefore, the expression for collector current is  ... 
 
+# Characteristics of Common Base Connection:
+
+The most important characteristics of common base connection are input characteristics and output characteristics.
+
+i) **input charavteristic:** 
+It is the curve between emitter current IE and emitter-base voltage VEB at constant collector-base voltage VCB. The emitter current is generally taken along y-axis and emitter-base voltage along x-axis. Fig. 8.14 shows the input characteristics of a typical transistor in CB arrangement .

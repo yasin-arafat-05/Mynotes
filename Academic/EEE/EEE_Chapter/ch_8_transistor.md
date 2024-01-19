@@ -84,5 +84,16 @@ It is the curve between emitter current IE and emitter-base voltage VEB at const
 
 This narrowing of the base region enhances the efficiency of the transistor as a current amplifier. The reduced width allows more electrons to diffuse across the narrow base region and reach the collector, contributing to an increase in collector current $(\(I_C\))$.
 
+**Input Resistance:** 
+It is the ratio of change in emitter-base voltage (ΔVEB) to the resulting change in emitter current (ΔIE) at constant collector-base voltage (VCB).
+
+$\[ r_{in} = \frac{\Delta V_{BE}}{\Delta I_B} \]$
+
+
+ii) **Output Characteristics:**
+
+It is the curve between collector current $I_{C}$ and collector-base voltage $V_{CB}$ at constant emitter current $I_{E}$. Generally, collector current is taken along y-axis and collector-base voltage along x-axis. Fig. 8.15 shows the output characteristics of a typical transistor in CB arrangement.
+The following points may be noted from the characteristics :
+
 
 

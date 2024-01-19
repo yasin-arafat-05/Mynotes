@@ -70,4 +70,11 @@ Therefore, the expression for collector current is  ...
 The most important characteristics of common base connection are input characteristics and output characteristics.
 
 i) **input charavteristic:** 
-It is the curve between emitter current IE and emitter-base voltage VEB at constant collector-base voltage VCB. The emitter current is generally taken along y-axis and emitter-base voltage along x-axis. Fig. 8.14 shows the input characteristics of a typical transistor in CB arrangement .
+It is the curve between emitter current IE and emitter-base voltage VEB at constant collector-base voltage VCB. The emitter current is generally taken along y-axis and emitter-base voltage along x-axis. Fig. 8.14 shows the input characteristics of a typical transistor in CB arrangement . The following points may be noted from these characteristics :
+
+![Alt text](image-7.png)
+
+(i) The emitter current IE increases rapidly with small increase in emitter-base voltage VEB. It means that input resistance is very small.
+
+(ii) The emitter current is almost independent of collector-base voltage VCB. This leads to the conclusion that emitter current (and hence collector current) is almost independent of collector voltage.
+

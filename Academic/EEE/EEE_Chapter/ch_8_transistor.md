@@ -142,7 +142,7 @@ It is the curve between base current $I_{B}$ and emitter-base voltage $V_{EB}$ a
 i)  When the collector-base voltage $(\(V_{CB}\))$ is increased:
 
 1. The reverse bias across the collector-emittor junction increases.
-2. This increased reverse bias causes the depletion region at the collector-base junction to widen.
+2. This increased reverse bias causes the depletion region at the collector-emittor junction to widen.
 3. As a result, the effective width of the base region decreases.
 
 This narrowing of the base region decrease the efficiency of the transistor as a current. The reduced width allows more electrons to diffuse across the narrow base region and reach the collector, contributing to an decrease in the base current $(\(I_B\))$.

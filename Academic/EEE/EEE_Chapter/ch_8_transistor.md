@@ -95,6 +95,7 @@ ii) **Output Characteristics:**
 It is the curve between collector current $I_{C}$ and collector-base voltage $V_{CB}$ at constant emitter current $I_{E}$. Generally, collector current is taken along y-axis and collector-base voltage along x-axis. Fig. 8.15 shows the output characteristics of a typical transistor in CB arrangement.
 The following points may be noted from the characteristics :
 
+![Alt text](image-8.png)
 
 i) The collector current IC varies with $V_{CB}$ only at very low voltages ( < 1V). The transistor is never operated in this region.(For the lecakge current).
 

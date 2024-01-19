@@ -21,10 +21,12 @@ biased and supplies hole charges to its junction with the base.
 
 ![Alt text](image-4.png)
 
-ii) Collector. The section on the other side that collects the charges is called the collector. The
-collector is always reverse biased.
+ii) **Collector:** The section on the other side that collects the charges is called the collector. The
+collector is always reverse biased w.r.t. base. 
 
-iii) Base. The middle section which forms two pn-junctions between the emitter and collector
+iii) **Base:** The middle section which forms two pn-junctions between the emitter and collector
 is called the base.
+
+
 
 

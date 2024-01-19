@@ -153,3 +153,11 @@ Therefore, the input resistance of a CE circuit is higher than that of a CB circ
 **Input Resistance Formula:**
 Input resistance $(\(r_i\))$ is defined as the ratio of the change in base-emitter voltage $(\(ΔV_{BE}\))$ to the change in base current $(\(ΔI_B\))$ at constant collector-emitter voltage $(\(V_{CE}\))$. The formula is expressed as:
 $\[ r_i = \frac{ΔV_{BE}}{ΔI_B} \]$
+
+
+**Output Characteristics:** 
+ It is the curve between collector current $(I_{C})$ and collector-emitter voltage $(V_{CE})$ at constant base current $(I_{B})$. The collector current $(I_{C})$ is generally taken along y-axis and collector-emitter voltage $(V_{CE})$ along x-axis. Fig. 8.31 shows the output characteristics of a transistor in CE arrangement . The following points may be noted from these characteristics :
+
+ ![Alt text](image-13.png)
+
+ 

@@ -184,3 +184,6 @@ $\[ r_out = \frac{ΔV_{CE}}{ΔI_C} \]$
 ![Alt text](image-14.png)
 
 # Transistors Versus Vacuum Tubes
+
+# Transistor Circuit as an Amplifier
+

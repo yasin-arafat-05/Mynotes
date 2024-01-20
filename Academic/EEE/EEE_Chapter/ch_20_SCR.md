@@ -1,3 +1,21 @@
+# Silicon Controlled Rectifier (SCR)
+A silicon controlled rectifier is a semiconductor device that acts as a true electronic switch.
+
+![Alt text](image-19.png)
+
+**Constructional details:**
+When a pn junction is added to a junction transistor, the resulting three
+pn junction device is called a silicon controlled rectifier. Fig. 20.1 (i) shows its construction.
+
+
+Three are three terminals of a SCR. One is selected from the outer p-type material called anode
+A, the next one is selected from the outer n-type material called cathode K and the third from the base of transistor section and is called gate G.
+<br>
+**Why a SCR is called thyristor:**
+The silicon controlled rectifier is a solid state equivalent of thyratron. The gate, anode and
+cathode of SCR correspond to the grid, plate and cathode of thyratron. For this reason, SCR is
+sometimes called thyristor.
+
 # Working Of SCR
 
 When Gate is Open Circuited

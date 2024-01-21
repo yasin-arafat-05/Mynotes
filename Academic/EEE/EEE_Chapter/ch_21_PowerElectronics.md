@@ -8,8 +8,12 @@
 
 # Operation of Triac
   - (From Book)
-  
+  ![Alt text](image-35.png)
+
+  ![Alt text](image-36.png)
+
 # Diac 
+
  A diac is a two-terminal, three layer bidirectional device which can be switched from its OFF
 state to ON state for either polarity of applied voltage.
 

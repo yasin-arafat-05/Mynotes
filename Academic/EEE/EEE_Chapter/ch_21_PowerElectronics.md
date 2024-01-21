@@ -53,4 +53,10 @@ The device has only one pn-junction so it forms a diode. Because the two base le
 
 The emitter is heavily doped while the n-region is lightly doped. Thus, the resistance between base terminals is very high when emitter terminal is open.
 
+<br>
+**Operation:**
+<br>
 
+![Alt text](image-37.png)
+
+![Alt text](image-38.png)

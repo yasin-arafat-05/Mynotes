@@ -1,24 +1,24 @@
 
 # Introduction And Basic
 
-#### Feature of java
+### Feature of java
 ![Alt text](image.png)
 
-#### Compiler in java
+### Compiler in java
 **To compile:**
 javac Simple.java
 **To execute:**
 java Simple
 
-#### Java is both complie and interpreted language.
+### Java is both complie and interpreted language.
 
 ![Alt text](image-1.png)
 
-#### What happens at compile time?
+### What happens at compile time?
 
 ![Alt text](image-2.png)
 
-#### What happens at run time?
+### What happens at run time?
 
 ![Alt text](image-3.png)
 
@@ -30,10 +30,10 @@ java Simple
 
 **Interpreter:** Read bytecode stream then execute the instructions.
 
-#### Q) Can you save a Java source file by another name than the class name?
+### Q) Can you save a Java source file by another name than the class name?
 Yes, if the class is not public
 
-#### Q) Can java allow multiple class in one source file?
+### Q) Can java allow multiple class in one source file?
 Here, source file is D.java
 ![Alt text](image-4.png)
 

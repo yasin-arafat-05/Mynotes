@@ -56,3 +56,18 @@ JVM (Java Virtual Machine) is an abstract machine. It is called a virtual machin
     - Executes code
     - Provides runtime environme
 
+
+# JRE
+JRE is an acronym for Java Runtime Environment. It is also written as Java RTE. The Java Runtime Environment is a set of software tools which are used for developing Java applications. It is used to provide the runtime environment. It is the implementation of JVM. It physically exists. It contains a set of libraries + other files that JVM uses at runtime.
+
+The implementation of JVM is also actively released by other companies besides Sun Micro Systems.
+
+![Alt text](image-8.png)
+
+
+# JDK
+JDK is an acronym for Java Development Kit. The Java Development Kit (JDK) is a software development environment which is used to develop Java applications. It physically exists. It contains JRE + development tools.
+
+![Alt text](image-9.png)
+
+

@@ -108,4 +108,35 @@ A variable that is declared as static is called a static variable. It cannot be 
 ![Alt text](image-13.png)
 
 
+1. **Integer (int):** Represents whole numbers without any decimal points.
+    - Example: `int myInteger = 42;`
+
+2. **Floating-point (float):** Represents numbers with decimal points.
+    - Example: `float myFloat = 3.14;`
+
+3. **Double-precision floating-point (double):** Similar to float but with double precision.
+    - Example: `double myDouble = 6.28;`
+
+4. **Character (char):** Represents a single character, enclosed in single quotes.
+    - Example: `char myChar = 'A';`
+
+5. **Boolean (bool):** Represents true or false values.
+    - Example: `bool isTrue = true;`
+
+6. **Byte:** Represents 8-bit integers.
+    - Example: `byte myByte = 127;`
+
+7. **Short:** Represents 16-bit integers.
+    - Example: `short myShort = 32000;`
+
+8. **Long:** Represents 64-bit integers.
+    - Example: `long myLong = 123456789L;`
+
+9. **Unsigned Integers (e.g., uint):** Similar to integers but without the ability to represent negative values.
+    - Example: `uint myUnsignedInt = 500;`
+
+10. **Unsigned Long (e.g., ulong):** Similar to long but without the ability to represent negative values.
+    - Example: `ulong myUnsignedLong = 123456789UL;`
+
+
 

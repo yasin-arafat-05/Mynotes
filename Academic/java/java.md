@@ -43,3 +43,16 @@ Here, source file is D.java
 
 ![Alt text](image-6.png)
 
+![Alt text](image-7.png)
+
+
+# JVM 
+JVM (Java Virtual Machine) is an abstract machine. It is called a virtual machine because it doesn't physically exist. It is a specification that provides a runtime environment in which Java bytecode can be executed. It can also run those programs which are written in other languages and compiled to Java bytecode.
+
+**The JVM performs the following main tasks:**
+
+    - Loads code
+    - Verifies code
+    - Executes code
+    - Provides runtime environme
+

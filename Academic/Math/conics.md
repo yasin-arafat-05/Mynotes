@@ -76,4 +76,7 @@ An ellipse is a conic section, a curve formed by the intersection of a right cir
 
 8. **Ellipse Formula:**
 
-   
+![Alt text](image-3.png)
+
+![Alt text](image-4.png)
+

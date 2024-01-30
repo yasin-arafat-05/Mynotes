@@ -38,4 +38,40 @@ A parabola is a conic section, a curve formed by the intersection of a right cir
 
 ![Alt text](image-2.png)
 
+
+
+# Ellipse:
+
+**Definition of an Ellipse:**
+An ellipse is a conic section, a curve formed by the intersection of a right circular cone and a plane that is not parallel to the cone's base. Geometrically, an ellipse is defined as the set of all points in a plane, such that the sum of the distances from two fixed points (called the foci) to any point on the ellipse remains constant.
+
+**Properties of an Ellipse:**
+
+1. **Foci and Major/Minor Axes:**
+   - An ellipse has two foci, and the line segment joining the foci is the major axis.
+   - The midpoint of the major axis is the center of the ellipse.
+   - The minor axis is perpendicular to the major axis and passes through the center.
+
+2. **Distance between Foci:**
+   - The sum of the distances from any point on the ellipse to the two foci is constant and equal to the length of the major axis.
+
+3. **Standard Form Equations:**
+   - The standard form of the equation for an ellipse centered at the origin is $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$, where $a$ and $b$ are the lengths of the semi-major and semi-minor axes, respectively.
+   - When the ellipse is centered at $(h, k)$, the standard form becomes $\frac{(x - h)^2}{a^2} + \frac{(y - k)^2}{b^2} = 1$.
+
+4. **Eccentricity:**
+   - The eccentricity of an ellipse, denoted by $e$, is a measure of its deviation from a perfect circle. It is calculated as $e = \sqrt{1 - \frac{b^2}{a^2}}$.
+
+5. **Focal Length and Focal Points:**
+   - The focal length is half the distance between the foci and is denoted by $c$. It is related to the lengths of the semi-major and semi-minor axes by the equation $c = \sqrt{a^2 - b^2}$.
+   - The foci are located at the points $(\pm c, 0)$ or $(0, \pm c)$.
+
+6. **Vertices:**
+   - The vertices of the ellipse are the points where the ellipse intersects the major axis. They are located at $(h \pm a, k)$ when the ellipse is centered at $(h, k)$.
+
+7. **Directrices:**
+   - The directrices of an ellipse are two lines that are equidistant from the center and parallel to the minor axis. The distance between the center and a directrix is given by $d = \frac{a}{e}$.
+
+8. **Ellipse Formula:**
+
    

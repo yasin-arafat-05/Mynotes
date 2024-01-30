@@ -48,3 +48,52 @@
 - Instance variables are specific to each instance of a class and represent the state or attributes of individual objects.
 - Class variables are declared with the `static` keyword, while instance variables are not.
 - Class variables are often used for constants or shared data, whereas instance variables are used to maintain the state of individual objects.
+
+#  Explain the purpose of parameter and what is the difference between parameter and argument
+
+
+**Purpose of Parameter:**
+
+In Java, a parameter is a variable that is used in a method or constructor to receive data from the calling code. Parameters act as placeholders for the actual values that will be passed when the method or constructor is called. They allow methods and constructors to be more flexible and reusable, as they can work with different sets of data based on the values provided at the time of invocation.
+
+**Example in Java:**
+
+```java
+public class Calculator {
+    // Method with parameters
+    public int add(int num1, int num2) {
+        return num1 + num2;
+    }
+}
+```
+
+In this example, `num1` and `num2` are parameters of the `add` method. When you call the `add` method, you provide actual values for these parameters, and the method performs the addition operation using those values.
+
+**Difference Between Parameter and Argument:**
+
+- **Parameter:**
+  - **Definition:** A parameter is a variable declared in a method or constructor.
+  - **Location:** Parameters are part of the method or constructor signature.
+  - **Role:** Parameters act as placeholders to receive data.
+  - **Example (Java):**
+    ```java
+    public void exampleMethod(int parameter1, String parameter2) {
+        // Method body using parameters
+    }
+    ```
+
+- **Argument:**
+  - **Definition:** An argument is an actual value provided when calling a method or creating an object using a constructor.
+  - **Location:** Arguments are passed during the method or constructor invocation.
+  - **Role:** Arguments are the concrete values that are passed to the parameters.
+  - **Example (Java):**
+    ```java
+    MyClass obj = new MyClass();
+    obj.exampleMethod(42, "Hello, World!"); // 42 and "Hello, World!" are arguments
+    ```
+
+In the given Java example, `parameter1` and `parameter2` in the `exampleMethod` signature are parameters, and when you call the method with values like `42` and `"Hello, World!"`, these values are arguments.
+
+In summary, parameters are variables used in method or constructor declarations, and arguments are the actual values provided when invoking those methods or constructors. Parameters act as placeholders, while arguments are the specific data that fills those placeholders during method or constructor calls.
+
+

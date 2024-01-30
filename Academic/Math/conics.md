@@ -1,4 +1,9 @@
+<br><br>
+
 # Parabola:
+
+<br><br>
+
 
 **Definition of a Parabola:**
 A parabola is a conic section, a curve formed by the intersection of a right circular cone and a plane parallel to one of the cone's generating lines. Geometrically, a parabola is defined as the set of all points in a plane that are equidistant from a fixed point (called the focus) and a fixed straight line (called the directrix).
@@ -39,11 +44,15 @@ A parabola is a conic section, a curve formed by the intersection of a right cir
 ![Alt text](image-2.png)
 
 
+<br><br>
 
 # Ellipse:
 
+<br><br>
+
 **Definition of an Ellipse:**
 An ellipse is a conic section, a curve formed by the intersection of a right circular cone and a plane that is not parallel to the cone's base. Geometrically, an ellipse is defined as the set of all points in a plane, such that the sum of the distances from two fixed points (called the foci) to any point on the ellipse remains constant.
+
 
 **Properties of an Ellipse:**
 
@@ -80,3 +89,46 @@ An ellipse is a conic section, a curve formed by the intersection of a right cir
 
 ![Alt text](image-4.png)
 
+<br>
+<br>
+
+# Hyperbola:
+
+<br><br>
+
+**Definition of a Hyperbola:**
+A hyperbola is a conic section, a curve formed by the intersection of a right circular cone and a plane such that the difference of the distances from two fixed points (called the foci) to any point on the hyperbola remains constant.
+
+**Properties of a Hyperbola:**
+
+1. **Foci and Transverse/Conjugate Axes:**
+   - A hyperbola has two foci, and the line segment joining the foci is the transverse axis.
+   - The midpoint of the transverse axis is the center of the hyperbola.
+   - The conjugate axis is perpendicular to the transverse axis and passes through the center.
+
+2. **Distance between Foci:**
+   - The difference of the distances from any point on the hyperbola to the two foci is constant and equal to the length of the transverse axis.
+
+3. **Standard Form Equations:**
+   - The standard form of the equation for a hyperbola centered at the origin is $\frac{x^2}{a^2} - \frac{y^2}{b^2} = 1$, where $a$ and $b$ are the lengths of the semi-major and semi-minor axes, respectively.
+   - When the hyperbola is centered at $(h, k)$, the standard form becomes $\frac{(x - h)^2}{a^2} - \frac{(y - k)^2}{b^2} = 1$.
+
+4. **Eccentricity:**
+   - The eccentricity of a hyperbola, denoted by $e$, is a measure of its deviation from a perfect circle. It is calculated as $e = \sqrt{1 + \frac{b^2}{a^2}}$.
+
+5. **Focal Length and Focal Points:**
+   - The focal length is half the distance between the foci and is denoted by $c$. It is related to the lengths of the semi-major and semi-minor axes by the equation $c = \sqrt{a^2 + b^2}$.
+   - The foci are located at the points $(\pm c, 0)$ or $(0, \pm c)$.
+
+6. **Vertices:**
+   - The vertices of the hyperbola are the points where the hyperbola intersects the transverse axis. They are located at $(h \pm a, k)$ when the hyperbola is centered at $(h, k)$.
+
+7. **Asymptotes:**
+   - Hyperbolas have asymptotes, which are lines that the hyperbola approaches but never intersects. The equations of the asymptotes for a hyperbola centered at the origin are given by $y = \pm\frac{b}{a}x$.
+
+8. **Directrices:**
+   - The directrices of a hyperbola are two lines that are equidistant from the center and parallel to the transverse axis. The distance between the center and a directrix is given by $d = \frac{a}{e}$.
+
+9. **Hyperbola Formula:**
+
+  

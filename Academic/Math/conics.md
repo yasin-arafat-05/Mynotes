@@ -131,4 +131,5 @@ A hyperbola is a conic section, a curve formed by the intersection of a right ci
 
 9. **Hyperbola Formula:**
 
-  
+![Alt text](image-5.png)
+

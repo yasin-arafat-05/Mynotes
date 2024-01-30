@@ -20,7 +20,7 @@ A parabola is a conic section, a curve formed by the intersection of a right cir
 4. **Direction of Opening:**
    - The sign of the coefficient $\(a\)$ in the standard form determines the direction of opening. A positive $\(a\)$ opens the parabola upwards (for $\(y\)$) or to the right (for $\(x\)$), and a negative $\(a\)$ opens it downwards (for $\(y\)$) or to the left (for $\(x\)$).
 
-   ![Alt text](image.png)
+![Alt text](image.png)
 
 5. **Latus Rectum:**
    - The latus rectum is a line segment passing through the focus and perpendicular to the axis of symmetry. Its length is equal to the |4a|.
@@ -68,7 +68,7 @@ An ellipse is a conic section, a curve formed by the intersection of a right cir
 
 6. **Vertices:**
    - The vertices of the ellipse are the points where the ellipse intersects the major axis. They are located at $(h \pm a, k)$ when the ellipse is centered at $(h, k)$.
-   
+
    - Co-Vertices are the ponts where the ellipse minor axis intersects with the ellipse.
 
 7. **Directrices:**

@@ -63,11 +63,13 @@ An ellipse is a conic section, a curve formed by the intersection of a right cir
    - The eccentricity of an ellipse, denoted by $e$, is a measure of its deviation from a perfect circle. It is calculated as $e = \sqrt{1 - \frac{b^2}{a^2}}$.
 
 5. **Focal Length and Focal Points:**
-   - The focal length is half the distance between the foci and is denoted by $c$. It is related to the lengths of the semi-major and semi-minor axes by the equation $c = \sqrt{a^2 - b^2}$.
+   - The focal length is the distance between the two foci .Therefore it is the sum of distances from the foci point to the centre.
    - The foci are located at the points $(\pm c, 0)$ or $(0, \pm c)$.
 
 6. **Vertices:**
    - The vertices of the ellipse are the points where the ellipse intersects the major axis. They are located at $(h \pm a, k)$ when the ellipse is centered at $(h, k)$.
+   
+   - Co-Vertices are the ponts where the ellipse minor axis intersects with the ellipse.
 
 7. **Directrices:**
    - The directrices of an ellipse are two lines that are equidistant from the center and parallel to the minor axis. The distance between the center and a directrix is given by $d = \frac{a}{e}$.

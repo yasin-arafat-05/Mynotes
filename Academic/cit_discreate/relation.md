@@ -66,5 +66,14 @@ R4 -> Irreflective relation;
 
 ![Alt text](image-16.png)
 
+# Symmetric
+
 ![Alt text](image-17.png)
 
+# Antisymmetric
+
+![Alt text](image-18.png)
+
+# Asymmetric 
+
+![Alt text](image-19.png)

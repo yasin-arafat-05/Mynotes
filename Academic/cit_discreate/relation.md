@@ -78,7 +78,10 @@ R4 -> Irreflective relation;
 
 ![Alt text](image-19.png)
 
-# Compitable
+# Compatible
 
 ![Alt text](image-20.png)
+
+
+
 

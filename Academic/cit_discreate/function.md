@@ -25,13 +25,22 @@
 <br> <br>
 
 ### Onto Function
+
 co-domain এ ফাঁকা থাকা যাবে না । 
 
 ![Alt text](image-27.png)
 
 <br> <br>
 
-### Into Function
+### Into Function:
+
+co-domain এ ফাঁকা থাকবে । 
+
 ![Alt text](image-28.png)
+
+### Bijective
+
+![Alt text](image-29.png)
+
 
 

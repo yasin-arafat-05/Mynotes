@@ -82,6 +82,11 @@ R4 -> Irreflective relation;
 
 ![Alt text](image-20.png)
 
+# Transitive
 
+![Alt text](image-21.png)
 
+# Equivalence
+
+![Alt text](image-22.png)
 

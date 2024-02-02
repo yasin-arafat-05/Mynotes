@@ -36,3 +36,33 @@ Matrix representation multipication and  addition: <br>
 
 ![Alt text](image-10.png)
 
+<br>
+<br>
+<br>
+
+Video No: 02
+
+<br>
+<br>
+<br>
+
+যদি diagraph দিয়ে relation গুলো দেওয়া থাকে তাইলে, direction গুলো শুধু change হয়ে যাবে । 
+inverse  করার সময় । 
+
+![Alt text](image-11.png)
+
+![Alt text](image-12.png)
+
+![Alt text](image-13.png)
+
+![Alt text](image-14.png)
+
+## Types of relations of set:
+
+![Alt text](image-15.png)
+
+
+R4 -> Irreflective relation;
+
+![Alt text](image-16.png)
+

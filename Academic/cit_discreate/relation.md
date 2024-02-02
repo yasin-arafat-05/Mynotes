@@ -1,5 +1,5 @@
 
-!(Video-1)[https://www.youtube.com/watch?v=ynHoB_0li_o&list=PLT3bOBUU3L9gF5nz4y1j2lb6q6IDbA6PQ]
+[Video-1](https://www.youtube.com/watch?v=ynHoB_0li_o&list=PLT3bOBUU3L9gF5nz4y1j2lb6q6IDbA6PQ)
 
 ![Alt text](image.png)
 

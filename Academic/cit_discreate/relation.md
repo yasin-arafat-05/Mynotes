@@ -77,3 +77,8 @@ R4 -> Irreflective relation;
 # Asymmetric 
 
 ![Alt text](image-19.png)
+
+# Compitable
+
+![Alt text](image-20.png)
+

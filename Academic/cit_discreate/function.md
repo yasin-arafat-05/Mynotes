@@ -43,4 +43,18 @@ co-domain এ ফাঁকা থাকবে ।
 ![Alt text](image-29.png)
 
 
+### Video no: 02
+
+![Alt text](image-30.png)
+
+![Alt text](image-31.png)
+
+### Pigeon hole principle:
+
+![Alt text](image-32.png)
+
+
+![Alt text](image-33.png)
+
+![Alt text](image-34.png)
 

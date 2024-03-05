@@ -145,3 +145,22 @@ For example, to delete a database named "exampledb," you can use:
 DROP DATABASE IF EXISTS exampledb;
 ```
 
+# see all the user with pass that created on the postgresql:
+
+### Only the user:
+
+```sql
+SELECT usename FROM pg_user;
+```
+
+### User with password:
+
+```sql
+SELECT usename, usesuper, usecreatedb, usesysid FROM pg_user;
+```
+<br><br>
+
+- **usename:** The name of the PostgreSQL user.
+- **usesuper:** Indicates whether the user is a superuser. In this case, "t" means true, so the "postgres" user is a superuser.
+- **usecreatedb:** Indicates whether the user is allowed to create databases. "t" means true, so the "postgres" user can create databases.
+- **usesysid:** The system identifier for the user.

@@ -38,6 +38,19 @@ A data **communications system** has five components.
     - ASCII
     - Unicode 
     - [ASCII vs UNICODE:](https://www.youtube.com/watch?v=vduTgRS8614&ab_channel=Learnatoneclick)
+  
+```sql
++-----------------------+-----------------------------------------------------+-----------------------------------------------------+
+| Feature               | ASCII                                               | Unicode                                             |
++-----------------------+-----------------------------------------------------+-----------------------------------------------------+
+| Full Name             | American Standard Code for Information Interchange  | Universal Character Encoding (or Universal Coded Character Set) |
+| Standards             | 7-bit ASCII (128 characters), 8-bit ASCII (256 characters) | UTF-8, UTF-16, UTF-32                                |
+| Character Support     | Limited set of characters (mostly English letters, numbers, and special symbols) | Very large set of characters (including nearly all written languages, mathematical and musical symbols, and emoji) |
+| Space Usage           | Less space                                          | More space                                          |
++-----------------------+-----------------------------------------------------+-----------------------------------------------------+
+```
+<br> <br>
+
 - Images
     - Bit Patterns
     - Graphics Formats - JPG, PNG etc.

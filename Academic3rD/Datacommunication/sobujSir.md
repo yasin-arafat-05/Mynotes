@@ -9,7 +9,7 @@ There are many types of Telecommunication technologies today. **Example:** Radio
 
 <br>
 
-### `Data Communication Video Link: [dataCom](https://www.youtube.com/watch?v=QFjAY6yzMgo&ab_channel=LearnCoding)`
+### `Data Communication Video Link:` [dataCom](https://www.youtube.com/watch?v=QFjAY6yzMgo&ab_channel=LearnCoding)
 
 **Data Communication or Datacom:** Data communication is the process of sending or receiving digital data between two or more computers via transmission media such as wire cable or wirelessly.
 

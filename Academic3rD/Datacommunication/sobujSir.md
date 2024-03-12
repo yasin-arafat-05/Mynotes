@@ -137,7 +137,8 @@ List of some major standard bodies
 
 # _______________ Transmission Mode or Data Flow ________________
 
-### Transmission Mode:
+### Transmission Mode: [Video_Link](https://www.youtube.com/watch?v=ttBKCvczcIQ&ab_channel=LearnCoding)
+
 Transmission mode means transferring of data between two devices connected over a network. It is also known as **mode of communication** .
 
 There are three types of Transmission mode:
@@ -147,3 +148,12 @@ There are three types of Transmission mode:
 
 ![Alt text](/Academic3rD/Datacommunication/image/image1.png)
 
+### **Simplex:**
+Simplex communication refers to a mode of communication in which data can be transmitted in only one direction, from one point to another. In simplex communication, the flow of information is unidirectional, meaning it travels in one way only.
+**Example:** Loudspeaker, keyboard, monitor etc.
+
+### **Half Duplex:**
+In this mode of communication a sender can send the data as well as receives the data but not at the same time.**Example:** Walkie-talkie.
+
+### **Full Duplex Mode:** 
+In this mode of communication the sender can send as well as receive the data on the other hand the reciver can receive as well as send the data at the same time.**Example:** Telephone network.

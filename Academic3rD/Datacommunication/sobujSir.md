@@ -137,7 +137,7 @@ List of some major standard bodies
 
 # _______________ Transmission Mode or Data Flow ________________
 
-### Transmission Mode: [Video_Link](https://www.youtube.com/watch?v=ttBKCvczcIQ&ab_channel=LearnCoding)
+### `Transmission Mode:` [Video_Link](https://www.youtube.com/watch?v=ttBKCvczcIQ&ab_channel=LearnCoding)
 
 Transmission mode means transferring of data between two devices connected over a network. It is also known as **mode of communication** .
 
@@ -157,3 +157,5 @@ In this mode of communication a sender can send the data as well as receives the
 
 ### **Full Duplex Mode:** 
 In this mode of communication the sender can send as well as receive the data on the other hand the reciver can receive as well as send the data at the same time.**Example:** Telephone network.
+
+

@@ -1,5 +1,5 @@
 
-# ____________________________ Telecom VS Datacom __________________________________
+# _________________ Telecom VS Datacom __________________
 
 **Communications:** Transfer of data from one entity to another via some form of transmission medium.
 

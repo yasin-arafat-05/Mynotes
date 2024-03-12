@@ -132,3 +132,18 @@ List of some major standard bodies
         - H Series
         - G Series
 - TIA - Telecommunications and Information Administration
+
+<br>
+
+# _______________ Transmission Mode or Data Flow ________________
+
+Transmission Mode:
+
+### Transmission Mode:
+Transmission mode means transferring of data between two devices connected over a network. It is also known as **mode of communication** .
+
+There are three types of Transmission mode:
+- Simplex
+- Half Duplex
+- Full Duplex
+

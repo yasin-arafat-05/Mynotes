@@ -58,6 +58,46 @@ A data **communications system** has five components.
 - Video → Sequence of Bitmap Images
 
 
+**Images:**
+
+1. **JPEG/JPG**: Joint Photographic Experts Group
+2. **PNG**: Portable Network Graphics
+3. **GIF**: Graphics Interchange Format
+4. **TIFF**: Tagged Image File Format
+5. **BMP**: Bitmap Image File
+6. **SVG**: Scalable Vector Graphics
+7. **PDF**: Portable Document Format (though not exclusively an image format, it can contain images)
+8. **RAW**: Raw Image Data File (varies by camera manufacturer)
+9. **ICO**: Icon Image File
+10. **WEBP**: Web Picture Format
+11. **HEIF**: High Efficiency Image Format
+
+
+**Audio Formats:**
+
+1. **MP3**: MPEG Audio Layer III
+2. **WAV**: Waveform Audio File Format
+3. **AAC**: Advanced Audio Coding
+4. **FLAC**: Free Lossless Audio Codec
+5. **OGG**: Ogg Vorbis
+6. **M4A**: MPEG-4 Audio Layer
+7. **WMA**: Windows Media Audio
+8. **AIFF**: Audio Interchange File Format
+
+**Video Formats:**
+
+1. **MP4**: MPEG-4 Part 14
+2. **AVI**: Audio Video Interleave
+3. **MKV**: Matroska Multimedia Container
+4. **WMV**: Windows Media Video
+5. **MOV**: QuickTime Movie
+6. **FLV**: Flash Video
+7. **MPEG**: Moving Picture Experts Group
+8. **3GP**: 3rd Generation Partnership Project
+9. **WEBM**: WebM Project
+10. **Ogg Video**: Ogg Theora Video File
+
+
 # _________________ Protocols and Standards __________________
 
 ### Protocols and Standards

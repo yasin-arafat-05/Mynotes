@@ -82,3 +82,25 @@ A network is two or more devices connected through links. A link is a communicat
 <br>
 <br>
 
+### Serial data transmission:
+
+`Serial data transmission sends data bits one after another over a single channel.`
+
+![Alt text](image-3.png)
+
+
+`Serial data transmission এ data, reciver এর কাছে অনেক slow পৌছে Parallel data transmission এর তুলনায় । কারণ, প্রত্যেক bit এর জন্য একটি communication wire থাকে । যেহেতু,প্রত্যেক bit এর জন্য একটি communication wire থাকে তাই  cost অনেক কম পড়ে । এর ব্যবহার আমরা long distance এ data transmission এর জন্য করে থাকি। `<br>
+
+**Example:** USB - Universal Serial Bus
+
+<br>
+
+### Synchronous Data Transmission:
+![Alt text](image-4.png)
+
+### Asynchronous Data Transmission:
+
+`In asynchronous transmission only one character is sent at a time. Weather that a character is number or alphabet. It uses start(0) and stop(1) bits for transferring data.`
+
+![Alt text](image-5.png)
+

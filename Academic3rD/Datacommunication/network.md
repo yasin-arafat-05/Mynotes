@@ -41,8 +41,10 @@ A network is two or more devices connected through links. A link is a communicat
 
 - **point-to-point**
     ![Alt text](image.png)
+
 - **multipoint**
     ![Alt text](image-1.png)
+    
 
 <br>
 

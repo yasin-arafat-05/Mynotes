@@ -7,15 +7,19 @@
 
 ## Relation Between Pixels
 
-![Alt text](image.png)
+![image](image.png)
 
 ### 4-Neighbors 
 
-![Alt text](image-1.png)
+![image1](image-1.png)
 
 ### Example of 4-Neighbors
 
 `4-Neighbors relationship represent as N4(p)`
 
-![Alt text](image-2.png)
+![image2](image-2.png)
+
+### Diagonal Neighbors ND(p)
+
+![image3](image-3.png)
 

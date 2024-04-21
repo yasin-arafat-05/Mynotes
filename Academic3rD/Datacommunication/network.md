@@ -31,3 +31,22 @@ ii) **Reliability:**
 iii) **Security:**
    - **Security** involves protecting the data being transmitted from unauthorized access, disclosure, alteration, or destruction. It includes measures such as encryption, authentication, and authorization to ensure that only authorized entities can access or manipulate the data during its journey from Node A to Node B.
 
+
+
+# _________________ Line Configration __________________
+
+### Line Configratoin: [Video_Link](https://www.youtube.com/watch?v=ei5fvr6NHf4&ab_channel=KnowledgeGATEbySanchitSir)
+
+A network is two or more devices connected through links. A link is a communications pathway that transfers data from one device to another. For communication to occur, two devices must be connected in some way to the same link at the same time. There are two possible types of connections: 
+
+- **point-to-point**
+    ![Alt text](image.png)
+- **multipoint**
+    ![Alt text](image-1.png)
+
+<br>
+
+# _________________ Data Transmission __________________
+
+### Data Transmission: [Video_Link](https://www.youtube.com/watch?v=seG-aeL3LdA&ab_channel=LearnCoding)
+

@@ -54,3 +54,31 @@ A network is two or more devices connected through links. A link is a communicat
 
 ### Data Transmission: [Video_Link](https://www.youtube.com/watch?v=seG-aeL3LdA&ab_channel=LearnCoding)
 
+#### Data Transmission:
+`Data transmission refers to the process of transferring the data between two or more digital devices in analog or digital format. This data is fransferred in the term of bits.`
+
+### There are 2 types of data transmission:
+
+- i) Parallel
+- ii) Serial 
+   - i) synchronous
+   - ii) asynchronous
+
+### Parallel data transmission:
+
+`Parallel data transmission sends multiple data bits at the same time over multiple channels.`
+
+![Alt text](image-2.png)
+
+`Parallel data transmission এ data একবারেই reciver এর কাছে অনেক fast পৌছে যায় । কারণ, প্রত্যেক bit এর জন্য আলাদা আলাদা communication wire থাকে । যেহেতু,প্রত্যেক bit এর জন্য আলাদা আলাদা communication wire থাকে থাকে তাই অনেক বেশি cost পড়ে । এর ব্যবহার আমরা short distance এ data transmission এর জন্য করে থাকি। `
+<br>
+
+- Parallel
+    - Simultaneous transmission results in high speed
+    - Required more data lines, hence higher cost
+    - Usually limited to short distances because its of costs and crosstalk
+    - Example: VGA Cable
+
+<br>
+<br>
+

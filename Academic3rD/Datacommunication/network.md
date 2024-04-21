@@ -40,11 +40,13 @@ iii) **Security:**
 A network is two or more devices connected through links. A link is a communications pathway that transfers data from one device to another. For communication to occur, two devices must be connected in some way to the same link at the same time. There are two possible types of connections: 
 
 - **point-to-point**
+
     ![Alt text](image.png)
 
 - **multipoint**
+
     ![Alt text](image-1.png)
-    
+
 
 <br>
 

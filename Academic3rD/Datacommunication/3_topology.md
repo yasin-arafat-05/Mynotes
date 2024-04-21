@@ -22,6 +22,7 @@
 - Hybrid
 - Tree
 
+---
 
 #### Bus topology:
 
@@ -44,4 +45,40 @@
 ![Alt text](image-8.png)
 
 `কোন একটা computer নষ্ট হয়ে গেলে বাকী কোন computer কোন effect পড়বে না ।`
+
+### Disadvantage:
+
+![Alt text](image-9.png)
+<br>
+
+![Alt text](image-10.png)
+
+`wire length নিজের ইচ্ছে মতো দেওয়া যাবে না । `
+
+<br>
+
+---
+
+# Ring Topology:
+
+`It is called ring topology because it forms a ring. In this topology each node is Strongly connected with its adjacent node.`
+
+![Alt text](image-11.png)
+
+
+# `**Advantage and Disadvantage of Ring Topology:**`
+
+####  Advantage:
+
+![Alt text](image-12.png)
+
+![Alt text](image-13.png)
+
+#### Disadvantage:
+
+![Alt text](image-14.png)
+
+![Alt text](image-15.png)
+
+![Alt text](image-16.png)
 

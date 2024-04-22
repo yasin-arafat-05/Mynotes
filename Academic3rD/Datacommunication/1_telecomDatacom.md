@@ -3,7 +3,7 @@
 
 **Communications:** Transfer of data from one entity to another via some form of transmission medium.
 
-**Telecommunication:** Telecommunications means Telecommunication over long distances.
+**Telecommunication:** Telecommunications means communication over long distances.
 We commonly use the contraction **telecom** with the same meaning.
 There are many types of Telecommunication technologies today. **Example:** Radio,TV broadcasting, Telegraphs, Internet, Satellites, Microwave, Fiber Optics, Landline and mobile phones.
 

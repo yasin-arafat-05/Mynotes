@@ -24,7 +24,7 @@
 
 ---
 
-#### Bus topology:
+# Bus topology:
 
 `In Bus topology, one long cable acts as a single communication channel and all the deviecs are connected to this cable. `
 
@@ -82,3 +82,34 @@
 
 ![Alt text](image-16.png)
 
+<br> <br>
+
+---
+
+<br> <br>
+
+# Star Topology:
+
+`In star topology all the nodes are connected with a central device called HUB. And the sharing of data is only possible throught HUB.`
+
+![Alt text](image-17.png)
+
+
+
+#### Advantage:
+
+![Alt text](image-18.png)
+
+
+#### Disadvantage:
+
+![Alt text](image-19.png)
+
+![Alt text](image-20.png)
+
+
+---
+
+# Mesh Topology:
+
+``

@@ -89,4 +89,46 @@ sudo pacman -S git
    ```bash
    source ~/.zshrc
    ```
-   
+
+# My Current  `kate .zshrc`
+```bash
+
+#------------------zsh+antigen----------
+source ~/antigen.zsh
+
+# Load the oh-my-zsh's library.
+antigen use oh-my-zsh
+
+# Bundles from the default repo (robbyrussell's oh-my-zsh).
+antigen bundle git
+# antigen bundle heroku
+antigen bundle pip
+# antigen bundle lein
+antigen bundle command-not-found
+
+# Syntax highlighting bundle.
+antigen bundle zsh-users/zsh-syntax-highlighting
+
+# Load the theme.
+antigen theme refined
+
+antigen bundle MichaelAquilina/zsh-auto-notify
+antigen bundle zsh-users/zsh-autosuggestions
+
+# Tell Antigen that you're done.
+antigen apply
+
+#-----------------------Android_sdk--------------
+export PATH=$PATH:/home/yasin/Android/Sdk/tools
+export PATH=$PATH:/home/yasin/Android/Sdk/tools/bin
+export PATH=$PATH:/home/yasin/Android/Sdk/platform-tools
+
+
+#------------------ Google CHROME_EXECUTABLE -------------
+export CHROME_EXECUTABLE=/opt/google/chrome/google-chrome
+
+#------------------ Auto matecally open neofetch ----------
+neofetch
+
+
+```

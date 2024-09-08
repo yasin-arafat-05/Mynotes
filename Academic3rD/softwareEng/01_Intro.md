@@ -116,18 +116,66 @@ unique coding and design.
 • Multiplicity of software development life cycle<br>
 • Selection of wrong technology or tool for development
 
+`Software তো আর করা হয় না । এখানে আমাদের সব কিছু planning, monitoring and control করা লাগে । risk assessment শুরুতে কোন সমস্যায় পড়লে, সেইটা পরে করে নেওয়া যাবে এইটা কিন্তু পর করতে গেলে হয়তো, আরো অনেক অনেক সমস্যা দেখা দিবে । কোন সমস্যার জন্য অনেক C,C++,java,python প্রোগামিং ভাষা আছে । ভুল ভাষা সিলেক্ট করা ।  `
+
+
 ### iii) Insufficient Time and Budget:
 • Unrealistic deadlines and resource constraints<br>
 • Inefficient resource allocation and prioritization
+
+`Customer unrealistc deadlines and Inefficient resource, বাজেট কম দেওয়া । `
+
 
 ### iv) Lack of Skilled Personnel:
 • Inadequate expertise in the development team<br>
 • High turnover rates and loss of experienced staff
 
+`Fresher থাকতে পারে । তাদের অভিজ্ঞতা কম । `
+
 ### v) Resistance to Change:
 • Difficulty in adapting to new technologies or processes<br>
 • Reluctance to modify established practices or mindsets<br>
 • Rapid technology advancement
+
+`Resistance to change, অন্যান্য  technologies এর থেকে Software এ advancement খুব তাড়াতাড়ি হয় । ৫,৬ মাস পর আপডেট আসে ।  `
+
+# 1.6 Need of software Engineering:
+
+**i) Handling Big Projects:** Corporation must use SE to handle large projects without any issues. 
+
+**ii) To manage the cost:** Software engineering programmers plan everything and reduce all those things that are not required.
+
+**iii) To decrease time:** It will save a lot of time if you are developing Software using a Software engineering technique.
+
+**iv) Reliable Software:** It is the company's responsibility to deliver software products on schedule and to address any defects that may exist.
+
+**v) Effectiveness:** Effectiveness results from things being created in accordance with teh software standards.
+
+
+# 1.7 Characteristics of Good Software:
+
+** i) Operational: **
+- Budget
+- Efficiency 
+- Usability
+- Dependability
+- Correctness
+- Functionality
+- Safety
+- Security
+
+** ii) Transitional: **
+- Interoperability
+- Reusability
+- Portability
+- Adaptability
+
+** iii) Maintenance:**
+- Fexibility
+- Maintainability
+- Modularity
+- Scalability
+
 
 
 

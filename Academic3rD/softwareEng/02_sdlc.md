@@ -92,4 +92,70 @@ completion of the previous one.
 
 `ধরি, Muanfacturing construction compnay তে একটা প্রডাক্ট বানানো হচ্ছে । সেখানে, রুম নাম্বার ১২ তে কোন কাজ হচ্ছে এর পর সেইটা ১৩ নাম্বার রুমে যাচ্ছে । অর্থাৎ, যদি প্রডাক্ট টা প্রথমে ১২ নাম্বার রুমে না যেতে ১৩ নাম্বারে যায় তাহলে আমাদের কাজ সঠিক ভাবে হবে না । Waterfall Model সেমভাবেই কাজ করে ।`
 
+- It is a simplest SDLC in which phases are
+organised in a linear and sequential order.
+
+-  It is called waterfall model as its
+diagrammatic representation resembles as
+like a waterfall, also known as classical life
+cycle model.
+
+
+![image_image_image](/Academic3rD/softwareEng/img/img01.jpg)
+
+- This type of model is basically used for the
+Small to medium-sized projects with clear,
+well-defined requirements. When the
+technology and tools to be used are wellknown and stable.
+
+- Projects where minimal changes are
+expected during the development process,
+and predictability is prioritized over
+adaptability.
+
+`এইটা আমরা Small projects এর জন্য করে থাকি কারণ, যদি বড় প্রজেক্ট হয় সেক্ষেত্রে যদি হয় তাহলে আমাদের এই মডেলে পিছনে যাওয়ার কোন সুযোগ নেই । তাই ছোট well-defined প্রজেক্ট এর ক্ষেত্রে ই এইটা প্রযোজ্য ।  `
+
+
+
+### `Advantage`
+- Easy to understand and implement, with well-defined stages and clear milestones.
+- Each phase has well defined input and output, phases are processed and completed one at a time. Phases do not overlap.
+- Low cost and easy to schedule, as all staff do not work concurrently on the same project, so can work on different projects.
+
+### `Disadvantage`
+- Not suitable to accommodate any change or iteration once development has begun. It is always difficult to acquire of the requirement in the starting.
+- Working version is produced in the last level, so not good for large size sophisticated projects.
+- High amounts of risk and uncertainty.
+
+`Customer involvement নেই । কাজ শুরু হয়ে একদম শেষ এ গিয়ে আউটপুট পাওয়া যাবে । risk অন্যকে বেশি । `
+
+
+### 2.2.2 Spiral model
+
+Barry boehm recognised the project risk factor into a life cycle model, the result
+was the spiral model, which was presented in 1986.
+
+` এই  model এর প্রধান কাজ হলো risk factor কমানো । বড় বড় কোম্পানির ক্ষেত্রে কোন বড় প্রজেক্ট এর ক্ষেত্রে আমরা যদি এর risk টা বের করতে পারি তাহলে কোম্পানিটি অনেক লোকসান থেকে বের্চে যাবে ।   `
+
+![image_o2](/Academic3rD/softwareEng/img/img02.jpg)
+
+
+`শুরুতে আমরা objective determine করবো । তারপর আমরা risk idenity and resolve করবো । তারপর  prototype  make করে, customer এর কাছে যাবো । যদি customer satisfied না হয়, তাহলে আবার আগের সেপ গুলো  follow করবো । If customer satisfied then, সেখান আমাদের software টি release করবো ।  `
+
+• The radial dimensions of the model represent
+the cumulative costs.<br>
+• Each path around the spiral is the indicative of
+the increased cost.<br>
+• The angular dimensions represent the progress
+made in the completing each cycle, each loop
+of the spiral from X-axis clockwise through 360
+represent one phase, which is divided into four
+sectors
+- Determining objectives and planning the next phase
+- Risk analysis
+- Engineering the product, develop and test the product
+- Customer evaluation
+
+
+
 

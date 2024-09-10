@@ -22,6 +22,12 @@ Following four steps involve in Requirement Engineering Process:
 - Examination of alternative solution strategies
 
 
+# 2. Requirement Elicitation:
+Requirements elicitation is the process of gathering actual requirements about the needs and expectations of stakeholders for a software system.
+
+
+
+
 
 
 

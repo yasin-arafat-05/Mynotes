@@ -118,5 +118,25 @@
 
 ![mesh_topology](image/img02.png)
 
+## Advantages:
+
+- It is very good topology to send the private message.
+- All nodes are directly associated with another node. So, it provide point to point connection
+- Unline ring topology, if a particular machine is failed then entire network will not fail.
+- Multiple devices can send or receive data simultaneously.
+
+## Disadvantages.
+
+- It is very difficult to add a new node because each an every computer directly connected with another one.
+- If a particular machine not working then, we can't send or receive data from the failure machine.
+
+
+<br>
+
+---
+
+# Hybrid :
+
+---
 
 

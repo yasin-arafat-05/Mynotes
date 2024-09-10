@@ -139,4 +139,23 @@
 
 ---
 
+### Definition of Hybrid Topology:
+A **hybrid topology** in networking refers to a combination of two or more different types of network topologies, such as star, bus, ring, and mesh, to form a single network. By integrating multiple topologies, hybrid networks leverage the strengths of various topologies while minimizing their weaknesses.
+
+
+![image_image_hybrid_topology](image/img05.jpg)
+
+
+### Advantages of Hybrid Topology:
+1. **Scalability**: Hybrid topologies allow easy expansion and flexibility to add more nodes or systems without affecting performance.
+2. **Reliability**: It increases reliability as failure in one part of the network doesn’t impact the entire network. For example, a fault in the bus part doesn’t affect the star part.
+3. **Efficient Performance**: Combining topologies optimizes performance based on the needs of the different sections of the network.
+4. **Fault Tolerance**: The hybrid structure isolates faults better than other topologies, as problems in one section won’t spread to other parts.
+5. **Customizability**: Offers flexibility in designing network architecture based on specific requirements (e.g., performance, cost, and reliability).
+
+### Disadvantages of Hybrid Topology:
+1. **Complexity**: Designing, configuring, and managing hybrid topologies can be complicated due to the mix of different topologies.
+2. **Cost**: Hybrid networks are often expensive to set up and maintain because they require more cabling, hardware, and configuration compared to simpler topologies.
+3. **Difficult Troubleshooting**: Since the topology is a combination of various types, diagnosing and troubleshooting issues can be more challenging.
+4. **Maintenance**: Ongoing maintenance might require specialized knowledge of each integrated topology, increasing time and costs for network management.
 

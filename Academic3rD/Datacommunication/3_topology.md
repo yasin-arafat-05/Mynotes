@@ -159,3 +159,20 @@ A **hybrid topology** in networking refers to a combination of two or more diffe
 3. **Difficult Troubleshooting**: Since the topology is a combination of various types, diagnosing and troubleshooting issues can be more challenging.
 4. **Maintenance**: Ongoing maintenance might require specialized knowledge of each integrated topology, increasing time and costs for network management.
 
+<br>
+
+---
+
+# Tree topology:
+
+---
+
+`In this topology, all the node are connected like a branches of tree. The combination of BUS & STAR topology is called tree topology.`
+
+![image_three](image/img03.png)
+
+
+
+<br>
+
+

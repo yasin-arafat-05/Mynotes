@@ -112,4 +112,11 @@
 
 # Mesh Topology:
 
-``
+---
+
+`In this topology each and every node is directly connected with each-other, so we can directly send the data to the destination machine without going to intermediate machine . `
+
+![mesh_topology](image/img02.png)
+
+
+

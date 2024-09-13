@@ -132,11 +132,104 @@ condition.
 
 ### `Loop:`
 
-[image_image](img/img13.png)
+![image_image](img/img13.png)
 
 ` A curved arrow represents loop in the module. All sub-modules covered by loop repeat execution of module.`
 
 `Like: in the example, calculation cgpa of a students. `
 
+
+# `# 3. Hipo Diagram: `
+
+`Hierarchical means tree like diagram.` 
+
+### Defination: 
+
+The Hierarchical Input Process Output (HIPO) diagram is a combination of two organized methods, one of which is the IPO (Input-Process-Output) diagram, and the other is a hierarchical structure chart.
+
+- **IPO (Input-Process-Output) Diagram:** This represents how data flows through a system or a process. It shows the inputs to the system, how the inputs are processed, and the outputs generated from these processes.
+
+- **Hierarchical Structure Chart:** This represents the hierarchical decomposition of the system or the process into smaller, more manageable parts. It shows how the entire system or process is broken down into modules or functions and how these modules relate to each other.
+
+
+![image](img/img14.png)
+
+<br>
+
+# `# 4. Structured English And Pseudocode: `
+
+<br>
+
+**Structured English** and **pseudocode** are methods used in software engineering to describe algorithms and processes in a way that is easy to understand. They are written using a mixture of natural language and programming constructs, without adhering to a specific programming syntax.
+
+### **Structured English**
+Structured English uses simple, plain English statements to describe logic and procedures. It typically follows a format of action words and decision-making constructs (e.g., IF, ELSE, WHILE).
+
+### Example of Structured English:
+
+#### Task: **Check if a user can log in**
+
+1. Get the **username** and **password**.
+2. IF the **username** exists in the system:
+   - Check if the **password** matches the one stored.
+   - IF the **password** is correct:
+     - Display the message "Login Successful."
+   - ELSE:
+     - Display the message "Incorrect Password."
+3. ELSE:
+   - Display the message "User does not exist."
+
+---
+
+### **Pseudocode**
+Pseudocode is a more detailed and structured way of writing an algorithm, often resembling programming languages but without specific syntax rules.
+
+### Example of Pseudocode:
+
+#### Task: **Calculate the sum of the first N positive integers**
+
+```
+BEGIN
+   READ N
+   SET sum = 0
+   FOR i = 1 TO N DO
+      sum = sum + i
+   END FOR
+   PRINT "The sum of the first", N, "numbers is", sum
+END
+```
+
+In this example:
+- **BEGIN** and **END** indicate the start and end of the pseudocode.
+- **READ N** is used to get input.
+- **FOR i = 1 TO N DO** is a loop that runs from 1 to N.
+- **sum = sum + i** performs the addition.
+- **PRINT** outputs the final result.
+
+---
+
+### Key Differences:
+- **Structured English** is more readable and close to plain English.
+- **Pseudocode** is closer to real code but still not bound to any particular programming language's syntax.
+
+Both methods are widely used for communicating algorithms before actual coding begins.
+
+<br>
+
+### Example: Structured English:
+
+<br>
+
+![image_image](img/img15.png)
+
+<br>
+
+### Example: Pseudocode:
+
+<br>
+
+![image_image](img/img16.png)
+
+<br>
 
 

@@ -1,7 +1,7 @@
 
 
 
-# Data Flow Diagram: 
+# ` # 1. Data Flow Diagram: `
 
 DFD Stands for "Data Flow Diagram" . It is also know as "Bubble chart" through which we can represent the flow of data graphically in an information system/ computer system.
 
@@ -79,4 +79,14 @@ Example: level-1 and level-2 DFD:
 ![image](img/img08.png)
 
 <br>
+
+
+# `# 2. Structure Chart: `
+
+Structure Chart: Structure chart is a chart derived from data flow diagram . It represents the system in more detail than DFD. It breaks down the entire system into lowest functional modules, describes functions and sub-functions of each module of the system to a greater detail than DFD.
+
+( আমরা Structure Chart এ ব্যবহার করি in Software Design । অন্যদিকে, এ আমরা  DFD বানীয়ে থাকি in Software Analysis ।  )
+
+
+
 

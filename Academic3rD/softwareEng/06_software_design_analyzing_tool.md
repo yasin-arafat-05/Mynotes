@@ -87,6 +87,56 @@ Structure Chart: Structure chart is a chart derived from data flow diagram . It 
 
 ( আমরা Structure Chart এ ব্যবহার করি in Software Design । অন্যদিকে, এ আমরা  DFD বানীয়ে থাকি in Software Analysis ।  )
 
+### Structure Chart Uses :
+
+- Describe functions and sub-functions of each part of system (in more detail than a DFD)
+
+- Show relationships between common and unique modules of a computer program.
+
+
+### Here are the symbols used in construction of structure charts -
+
+### `Module: `
+
+![image_image](img/img09.png)
+
+`Rectangle দিয়ে আমরা module কে প্রকাশ করে থাকি । প্রোগ্রামিং এ একে আমরা sub-routine বলে থাকি । module এ control-module(mainline) থাকে sub-module তৈরি হয় । যে module এর Rectangle এর দুই পাশে দুইটা line থাকে সেই module কে library module বলে ।  library module reuasble and যে কোন control-module একে invoke করতে পারে।  `
+
+### `Data Flow: `
+
+A directed arrow with empty circle at the end represents data flow.
+
+![image_image](img/img10.png)
+
+
+
+### `Control Flow: `
+
+A directed arrow with filled circle at the end represents control flow.
+
+![image](img/img11png.png)
+
+
+`maintain customer data থেকে যখন customer charges data flow  হয় তখন Control flow, maintain customer কে  message or flag দিতেছে ।  `
+
+
+### `Codintion: `
+
+Indicate that a control module can select any of sub-routine based on some 
+condition.
+
+![image](img/img12.png)
+
+` আমরা sort করবো, এখানে আমরা নিচের name,number,inventory value তিনটা দিয়েই করতে পারি । আমাদের control module যেই sub-routine or sub-module select করবে সেইটা দিয়েই sort হবে । `
+
+
+### `Loop:`
+
+[image_image](img/img13.png)
+
+` A curved arrow represents loop in the module. All sub-modules covered by loop repeat execution of module.`
+
+`Like: in the example, calculation cgpa of a students. `
 
 
 

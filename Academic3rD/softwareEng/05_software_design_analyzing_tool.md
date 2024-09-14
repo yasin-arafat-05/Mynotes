@@ -233,3 +233,47 @@ Both methods are widely used for communicating algorithms before actual coding b
 <br>
 
 
+# `# Entity Relationship - Diagram: `
+
+An **Entity-Relationship (E-R) Diagram** is a visual representation of the relationships between entities in a database. It is used in software engineering to plan how data is organized in a database.
+
+- **Entities**: These are objects or concepts, usually represented as rectangles. Examples include *Customer*, *Order*, or *Product*.
+  
+- **Attributes**: These are properties or characteristics of an entity, shown as ovals. For example, an entity *Customer* might have attributes like *CustomerID*, *Name*, and *Email*.
+
+- **Relationships**: These define how entities are related, represented by diamonds. For example, a *Customer* can "place" an *Order*.
+
+- **Cardinality**: Specifies the number of instances in one entity that can be associated with instances in another entity (e.g., one-to-one, one-to-many, many-to-many).
+
+In short, E-R diagrams help in designing the database structure by illustrating the entities, their attributes, and how they interact with each other.
+
+
+![image_image](img/img17.png)
+
+
+# `# Decision Table: `
+
+A Decision table represents conditions and the respective actions to be taken to 
+address them, in a structured tabular format. It is a powerful tool to debug and prevent errors. It helps group similar information into a single table and then by combining tables it delivers easy and convenient decision making.
+
+
+### Key Components:
+1. **Conditions**: The criteria or factors that influence a decision (e.g., "Is the customer a member?" or "Is the order value above $100?").
+2. **Actions**: The outcomes or responses based on the conditions (e.g., "Apply a discount" or "Charge shipping fee").
+3. **Rules**: The combinations of conditions and corresponding actions that define what should happen in each scenario.
+
+### Structure of a Decision Table:
+| Conditions             | Rule 1 | Rule 2 | Rule 3 | Rule 4 |
+|------------------------|--------|--------|--------|--------|
+| Is customer a member?   | Yes    | Yes    | No     | No     |
+| Is order > $100?        | Yes    | No     | Yes    | No     |
+| **Actions**             |        |        |        |        |
+| Apply discount          | Yes    | No     | No     | No     |
+| Charge shipping fee     | No     | Yes    | Yes    | Yes    |
+
+### Benefits:
+- **Clarity**: Makes complex decision-making easier to understand.
+- **Coverage**: Ensures all possible conditions are accounted for.
+- **Testing**: Helps identify missing or conflicting rules.
+
+In short, decision tables are a way to organize decision rules clearly and are useful in designing systems with many conditions and outcomes.

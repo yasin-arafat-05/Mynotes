@@ -61,6 +61,7 @@ and how requirement check is done.
 ### 7. Maintenance
 • Any change made in the software after its official release is called
 maintenance. It could be because of various reasons.
+
 • Adaptive <br>
 • Corrective <br>
 • Perfective <br>

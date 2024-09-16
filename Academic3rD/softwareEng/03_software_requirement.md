@@ -41,7 +41,8 @@ Requirement engineering is the process of defining, documenting, and maintaining
 
 <br>
 
-Type of requirement: 
+# `# Type of requirement:`
+
 - User requirement
 - System requirement
 
@@ -65,39 +66,43 @@ System requirement set out the system functions, service and operational constar
 
 
 
+# `# Functional Requirements:`
+
 
 (`Funcitional Requrements: What দিয়ে প্রশ্ন করবো`)
 
-
-### Functional Requirements:
-These are features that describe **what the system should do**. They define specific tasks the software must perform for the users.
+These are features that describe **what the system should do**. They define the specific tasks or actions that the software must perform to meet users' needs.
 
 Examples:
-- **Search Function**: The system should allow users to search through invoices.
-- **Email Reports**: Users should be able to email any report to management.
-- **User Groups and Permissions**: The system should allow users to be organized into groups with different access rights.
-- **Business Rules**: The software must follow the company’s rules and processes.
-- **Backward Compatibility**: The software should work with older systems.
+- **Search Function**: The system should let users search through stored information, like a list of bills or orders.
+- **Email Reports**: Users should be able to send reports to management or other team members by email.
+- **User Groups and Permissions**: The system should allow users to be grouped and given different levels of access. For example, some users can view all data, while others might only see part of it.
+- **Business Rules**: The software must follow the company's rules or procedures. For example, if a company only approves orders over $500, the system should enforce that rule.
+- **Backward Compatibility**: The software should still work with older versions of tools or systems the company has been using.
 
 
+
+
+# `# Non-Functional Requirements:`
 
 (`Non-Funcitional Requrements: How দিয়ে প্রশ্ন করবো`)
-### Non-Functional Requirements 
-These are requirements related to **how the system performs** rather than specific features. They focus on the system’s quality and performance.
+
+These are requirements about **how the system performs** rather than what it does. They focus on the system’s overall quality, speed, and security.
 
 Examples:
-- **Security**: The system should be protected from unauthorized access.
-- **Logging**: The system should keep track of important actions for future reference.
-- **Storage**: The system should have enough space for data.
-- **Configuration**: Users should be able to easily configure system settings.
-- **Performance**: The system should respond quickly and handle large amounts of data.
-- **Cost**: The software should be affordable to operate.
-- **Interoperability**: The software should work well with other systems.
-- **Flexibility**: The system should be easy to update and adapt to new requirements.
-- **Disaster Recovery**: The system should have backups and a plan to recover from failures.
-- **Accessibility**: The system should be easy to use for people with different needs.
+- **Security**: The system should protect itself from unauthorized access, meaning only people with permission can use it.
+- **Logging**: The system should record important activities or changes, so that there’s a record of what happened for future reference.
+- **Storage**: The system should have enough space to store all the data it needs, like files or records.
+- **Configuration**: Users should be able to easily change the system’s settings, like changing passwords or preferences.
+- **Performance**: The system should work fast and be able to handle many tasks at the same time without slowing down.
+- **Cost**: The software should be affordable and not cost too much to run or maintain.
+- **Interoperability**: The software should work well with other systems or devices, like being able to share data with other software.
+- **Flexibility**: The system should be easy to update or adjust when new features or changes are needed.
+- **Disaster Recovery**: The system should have a plan to recover data and continue working if something goes wrong, like a power failure or system crash.
+- **Accessibility**: The system should be easy to use for people with different needs, such as those with disabilities.
 
-### Requirement Categories (Simplified)
+
+### Requirement Categories:
 1. **Must Have**: Critical for the system to work. Without these, the software won’t function.
 2. **Should Have**: Important features that improve the software but aren’t essential.
 3. **Could Have**: Optional features that are nice to have but not necessary.

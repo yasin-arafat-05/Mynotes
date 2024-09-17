@@ -78,9 +78,8 @@ maintenance. It could be because of various reasons.
 - Iterative models
 - Bigbang models
 
-(Waterfall Model,
+(
 Iterative models,
-Spiral models,
 V-models,
 Bigbang models,
 )
@@ -156,6 +155,9 @@ sectors
 - Risk analysis
 - Engineering the product, develop and test the product
 - Customer evaluation
+
+
+
 
 
 

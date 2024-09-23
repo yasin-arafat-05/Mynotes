@@ -60,7 +60,7 @@ Directing is a central element of the management process that ensures organizati
    Directing encourages employees to work willingly and efficiently. Through proper guidance and leadership, managers motivate their teams to follow instructions and perform at their best.  
    **Bangla**: পরিচালনার মাধ্যমে কর্মীদের অনুপ্রাণিত করা হয়, যাতে তারা স্বতঃস্ফূর্ত এবং দক্ষতার সাথে কাজ করে।
 
-### 3. **Directing Supplements Other Managerial Functions:**
+### 3. **Directing helps Other in Managerial Functions:**
    Directing complements other management functions like planning, organizing, staffing, and controlling. Without effective directing, these functions may remain less effective or completely ineffective.  
    **Bangla**: পরিচালনা অন্যান্য ব্যবস্থাপনামূলক কার্যক্রম যেমন পরিকল্পনা, সংগঠন এবং নিয়ন্ত্রণকে সম্পূর্ণ করে। সঠিক পরিচালনা ছাড়া এই কার্যক্রমগুলো অকার্যকর হতে পারে।
 

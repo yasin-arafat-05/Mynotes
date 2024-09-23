@@ -36,7 +36,7 @@ Bangla:
 
 
 
-## `# **Need and Importance of Directing:**`
+## `# Need and Importance of Directing:`
 Directing is a central element of the management process that ensures organizational goals are met. Despite proper planning, structure, staffing, and control, the absence of effective directing may lead to unfulfilled goals. It is through the directing process that the organization sets its actions in motion toward achieving its objectives. The importance of directing can be explained through the following points:
 
 ---
@@ -53,7 +53,7 @@ Directing is a central element of the management process that ensures organizati
    Directing complements other management functions like planning, organizing, staffing, and controlling. Without effective directing, these functions may remain less effective or completely ineffective.  
    **Bangla**: পরিচালনা অন্যান্য ব্যবস্থাপনামূলক কার্যক্রম যেমন পরিকল্পনা, সংগঠন এবং নিয়ন্ত্রণকে সম্পূর্ণ করে। সঠিক পরিচালনা ছাড়া এই কার্যক্রমগুলো অকার্যকর হতে পারে।
 
-### 4. **Directing Helps in Coping with Changing Environment:**
+### 4. **Directing Helps in Coping and Changing with Environment:**
    In a changing business environment, directing helps managers lead and communicate effectively with subordinates to accept changes and adapt to new goals, structures, or functions.  
    **Bangla**: পরিবর্তিত ব্যবসায়িক পরিবেশে পরিচালনা কর্মীদের পরিবর্তনের সাথে খাপ খাওয়াতে সাহায্য করে এবং ব্যবস্থাপকরা অধস্তনদের পরিবর্তনের প্রয়োজনীয়তা বোঝাতে এবং গ্রহণ করতে সক্ষম হন।
 

@@ -12,6 +12,17 @@ Bangla:
 ---
 
 
+In the words of Urwick and Brech, “directing is the guidance, the 
+inspiration, the leadership of those men and women that constitutes the real core 
+of the responsibility of management.” 
+ 
+According to Haiman, “Directing consists of a process or technique by 
+which instruction can be issued and operations can be carried out as originally 
+planned.”
+
+
+---
+
 ### Key Elements of Directing:
 
 1. **Issuing Orders and Instructions:**  

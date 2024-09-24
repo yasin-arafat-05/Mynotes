@@ -53,7 +53,7 @@ Directing is a central element of the management process that ensures organizati
 ---
 
 ### 1. **Directing Helps in Achieving Coordination:**
-   Directing facilitates coordination as a natural outcome. Managers ensure that the activities of subordinates align with organizational goals through supervision, guidance, and counseling.  
+   Directing facilitates coordination as a natural outcome. Managers ensure that the activeities of subordinates align with organizational goals through supervision, guidance, and counseling.  
    **Bangla**: পরিচালনা কার্যকর সমন্বয় সাধন করতে সাহায্য করে। ব্যবস্থাপকরা অধস্তনদের কার্যক্রম তত্ত্বাবধান, পরামর্শ এবং নির্দেশনার মাধ্যমে সংগঠনের লক্ষ্য অর্জনে সমন্বয় সাধন করেন।
 
 ### 2. **It is a Means of Motivation:**
@@ -71,6 +71,11 @@ Directing is a central element of the management process that ensures organizati
 ### 5. **Directing Facilitates Order and Discipline Among Employees:**
    Through supervision and guidance, directing ensures that employees maintain discipline, follow instructions, and work in an organized manner to achieve organizational goals.  
    **Bangla**: পরিচালনা কর্মীদের মধ্যে শৃঙ্খলা বজায় রাখে এবং তাদের নির্দেশ অনুসরণ করতে এবং সংগঠনের লক্ষ্য অর্জনে সংগঠিতভাবে কাজ করতে অনুপ্রাণিত করে।
+
+
+
+
+
 
 
 

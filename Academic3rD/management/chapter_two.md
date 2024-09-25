@@ -179,6 +179,43 @@ Planning is a key managerial function that offers numerous benefits but also com
    Planning is not cost-effective as it requires a significant investment of time and money for data collection and analysis.  
    **Bangla**: পরিকল্পনা ব্যয়বহুল, কারণ ডেটা সংগ্রহ এবং বিশ্লেষণের জন্য প্রচুর সময় এবং অর্থ ব্যয় হয়।
 
+# `# Types of Plans: `
+
+### **Types of Plans**
+
+The network of various plans helps guide decision-making and actions for managers. **(বিভিন্ন পরিকল্পনার নেটওয়ার্ক পরিচালকদের সিদ্ধান্ত নেওয়া এবং পদক্ষেপের নির্দেশনা দেয়।)** It is important for managers to understand the differences between single-use and standing plans, as well as distinctions between policies, strategies, procedures, and objectives before starting the planning process. **(পরিকল্পনা প্রক্রিয়া শুরুর আগে এককালীন এবং স্থায়ী পরিকল্পনার পার্থক্য, নীতি এবং কৌশলের মধ্যে পার্থক্য বোঝা খুবই গুরুত্বপূর্ণ।)** 
+
+Plans help managers make decisions, take action, and solve problems. **(পরিকল্পনা পরিচালকদের সিদ্ধান্ত নিতে, পদক্ষেপ নিতে এবং সমস্যা সমাধানে সহায়তা করে।)** They also help in efficiently managing resources and regulating the behavior of subordinates. **(এগুলো সংস্থার সম্পদ দক্ষতার সাথে পরিচালনা করতে এবং অধস্তন কর্মচারীদের কাজের আচরণ নিয়ন্ত্রণ করতে সহায়তা করে।)** Plans are typically grouped into two types: single-use plans and standing plans. **(পরিকল্পনাগুলো সাধারণত দুই ধরনের: এককালীন পরিকল্পনা এবং স্থায়ী পরিকল্পনা।)**
+
+---
+
+### **1. Single-Use Plans**
+
+- **Objective:** A future goal or desired achievement. **(উদ্দেশ্য: ভবিষ্যতের লক্ষ্য বা কাঙ্ক্ষিত অর্জন।)**
+  
+- **Strategy:** A course of action that aligns an organization's strengths and weaknesses with opportunities and threats in a changing environment. **(কৌশল: একটি কর্মপদ্ধতি যা পরিবর্তনশীল পরিবেশে প্রতিষ্ঠানের শক্তি এবং দুর্বলতাগুলিকে সুযোগ এবং হুমকির সাথে সামঞ্জস্য করে।)**
+
+- **Programme:** A network of policies, procedures, rules, and budgets designed to handle specific situations and execute a given course of action. **(প্রোগ্রাম: নির্দিষ্ট পরিস্থিতি মোকাবেলার জন্য নীতি, পদ্ধতি, নিয়ম এবং বাজেটের একটি নেটওয়ার্ক যা একটি নির্দিষ্ট কর্মপদ্ধতি বাস্তবায়ন করতে সহায়ক।)**
+
+- **Budget:** A numerical representation of a plan in terms of expected revenue and expenditure over a period of time. **(বাজেট: একটি নির্দিষ্ট সময়ের মধ্যে প্রত্যাশিত রাজস্ব এবং ব্যয়ের সংখ্যাগত উপস্থাপনা।)**
+
+---
+
+### **2. Standing Plans**
+
+- **Policies:** General guidelines that direct decision-making. **(নীতিমালা: সাধারণ নির্দেশিকা যা সিদ্ধান্ত গ্রহণের দিকনির্দেশনা দেয়।)**
+
+- **Procedure:** Administrative guides that outline the sequential steps for actions. **(পদ্ধতি: প্রশাসনিক গাইড যা কর্মের ক্রমানুসার নির্ধারণ করে।)**
+
+- **Method:** The detailed process by which a specific activity is carried out. **(পদ্ধতি: একটি নির্দিষ্ট কার্যকলাপ যেভাবে সম্পাদিত হবে তার বিস্তারিত প্রক্রিয়া।)**
+
+- **Rules:** Directives that regulate and control employee behavior. **(নিয়ম: কর্মচারীদের আচরণ নিয়ন্ত্রণ করার নির্দেশিকা।)**
+
+---
+
+These plans serve as a framework for managers to guide day-to-day operations, ensure efficient use of resources, and maintain consistency in decision-making. **(এই পরিকল্পনাগুলো পরিচালকদের দৈনন্দিন কার্যক্রম পরিচালনা, সম্পদের দক্ষ ব্যবহার নিশ্চিত করা এবং সিদ্ধান্ত গ্রহণে সামঞ্জস্য বজায় রাখতে সহায়ক হয়।)**
+
+
 
 # `# Types of Planning: `
 

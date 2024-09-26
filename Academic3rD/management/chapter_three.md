@@ -21,9 +21,7 @@ This refers to the number of employees a manager can supervise effectively. For 
 ### **H - Human & Social Process**
 Organising is not just about tasks, it’s about people too. It considers how people interact and work together. For example, when assigning tasks, a manager will think about who works well together to avoid conflicts.
 
-
-
-
+---
 ---
 
 # `# Process of Organising: `

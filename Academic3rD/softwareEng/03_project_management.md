@@ -128,3 +128,17 @@ Project estimation is crucial for managing software projects effectively. It inv
   5. **Execution:** If approved, implement the change.
   6. **Close request:** Verify the change and close the request.
 
+
+<br><br>
+
+
+# `# Project Management Tools: `
+
+![image_image](img/img22.png)
+![image_image](img/img23.png)
+![image_image](img/img24.png)
+
+
+<br><br>
+
+

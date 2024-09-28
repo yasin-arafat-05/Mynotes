@@ -28,6 +28,12 @@ Software development changes fast, and every client has different needs. SPM hel
 <br>
 <br>
 
+
+# `# Project Management Tools: `
+
+![image_image](img/img25.png)
+
+
 # `# Project Estimation: `
 
 <br>

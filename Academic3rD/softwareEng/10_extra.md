@@ -284,6 +284,8 @@ A data object is any entity that contains information about the system, such as 
 **Explanation:**  
 Entity-Relationship Diagram (ERD) notation is a visual representation of the relationships between entities in a system, showing how data is structured.
 
+![Alt text](image.png)
+
 **Bangla Translation:**  
 এন্টিটি-রিলেশনশিপ ডায়াগ্রাম (ERD) একটি চিত্র যা সিস্টেমের সত্তাগুলির মধ্যে সম্পর্ক এবং ডেটা কিভাবে গঠিত তা দেখায়।
 

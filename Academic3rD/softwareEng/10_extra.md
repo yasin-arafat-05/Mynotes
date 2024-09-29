@@ -148,6 +148,22 @@ Process Specification (PSPEC) defines the detailed processes and their interacti
 **Bangla Translation:**  
 প্রক্রিয়া স্পেসিফিকেশন (PSPEC) একটি সিস্টেমের বিস্তারিত প্রক্রিয়া এবং তাদের মিথস্ক্রিয়াগুলিকে সংজ্ঞায়িত করে। এটি সিস্টেমের কার্যকারিতা বোঝাতে সহায়ক।
 
+Process Name: **Library Book Checkout**
+
+**Inputs:**
+
+- Member ID (to identify the library member)
+- Book ID (to identify the book being checked out)
+- Checkout date (date the book is being checked out)
+
+
+**Outputs:**
+
+- Checkout confirmation number
+- Due date for the book
+- Updated status of the book (checked out or available)
+
+
 ---
 
 ### xiii) **Use-Case Diagram***  

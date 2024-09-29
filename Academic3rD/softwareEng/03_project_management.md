@@ -16,6 +16,7 @@ It’s the entire process of creating software, from gathering what the customer
 Software development changes fast, and every client has different needs. SPM helps manage risks, stay on budget, and deliver the project on time.
 
 **Software Project Manager's Job:**
+- Mainly, Managing People and Managing Project.
 - Leads the team and communicates with everyone involved.
 - Organizes resources (people, money, time) and monitors the progress.
 - Ensures the project is completed on time, within budget, and meets quality goals.
@@ -23,13 +24,10 @@ Software development changes fast, and every client has different needs. SPM hel
 **Important SPM Activities:**
 1. **Planning:** Deciding what needs to be done before starting.
 2. **Scope Management:** Clearly defining what is included in the project and controlling changes to avoid delays and cost overruns.
-
-
+3. **Project Estimation**
 <br>
 <br>
 
-
-# `# Project Management Tools: `
 
 ![image_image](img/img25.png)
 

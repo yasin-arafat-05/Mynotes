@@ -157,6 +157,8 @@ A use-case diagram represents the interaction between users (actors) and the sys
 **Bangla Translation:**  
 ইউজ-কেস ডায়াগ্রাম ব্যবহারকারী (অভিনেতা) এবং সিস্টেমের মধ্যে মিথস্ক্রিয়া প্রদর্শন করে এবং সিস্টেমের কার্যকারিতা দেখায়।
 
+![Alt text](image-4.png)
+
 ---
 
 - **Activity Diagram***:  
@@ -178,15 +180,15 @@ Flow-oriented modeling focuses on the flow of data or control through a system a
 ### xiv) **Flow Modeling Notation**
 
 **Explanation:**  
-Flow modeling notation uses symbols to represent the movement of data, control, or information through a system. It’s used in flowcharts and activity diagrams.
+Flow modeling notation uses symbols to represent the movement of data, control, or information through a system. It’s used in flowcharts and activity diagrams. (example: dfd)
 
 **Bangla Translation:**  
 ফ্লো মডেলিং নোটেশন হল প্রতীক যা সিস্টেমের মাধ্যমে ডেটা বা নিয়ন্ত্রণের গতি দেখাতে ব্যবহৃত হয়। এটি ফ্লোচার্ট এবং কার্যক্রম চিত্রে ব্যবহৃত হয়।
 
 ---
 
-- **Control Flow Diagram***:  
-A control flow diagram illustrates how different parts of a system control the execution of processes, often used in real-time systems.
+### xiv) **Control Flow Diagram***:  
+A control flow diagram illustrates how different parts of a system control the execution of processes, often used in real-time systems. ( example: structure chart)
 
 **Bangla Translation:**  
 কন্ট্রোল ফ্লো ডায়াগ্রাম সিস্টেমের বিভিন্ন অংশ কীভাবে প্রক্রিয়া সম্পাদনা করে তা চিত্রিত করে। এটি সাধারণত বাস্তব-সময়ের সিস্টেমে ব্যবহৃত হয়।
@@ -196,20 +198,20 @@ A control flow diagram illustrates how different parts of a system control the e
 ### xv) **Control Specification (CSPEC)**
 
 **Explanation:**  
-Control Specification (CSPEC) defines how different system controls are implemented and how they interact with other components in a software system.
+Control Specification (CSPEC) defines how different system controls are implemented and how they interact with other components in a software system. (**use in structure chart**)
 
 **Bangla Translation:**  
 কন্ট্রোল স্পেসিফিকেশন (CSPEC) সিস্টেম নিয়ন্ত্রণ কীভাবে বাস্তবায়িত হয় এবং তারা অন্যান্য উপাদানের সাথে কীভাবে মিথস্ক্রিয়া করে তা সংজ্ঞায়িত করে।
 
----
+<br>
 
-- **Class-Based Modeling**:  
-Class-based modeling represents the system's objects, their attributes, behaviors, and relationships in terms of classes and objects.
+`Control Flow Diagram: Uses graphical symbols (like arrows, diamonds, and rectangles) to represent processes, decisions, and flow paths. It shows the high-level overview of control mechanisms within the system.`
+<br>
 
-**Bangla Translation:**  
-ক্লাস-ভিত্তিক মডেলিং সিস্টেমের অবজেক্টগুলি, তাদের বৈশিষ্ট্য এবং সম্পর্কগুলি ক্লাস এবং অবজেক্টের মাধ্যমে দেখায়।
+`Control Specification (CSPEC): Often documented in textual format, detailing the specifications for each control mechanism. It may include pseudocode or algorithms describing how control is managed.`
 
----
+<br>
+
 
 ### xvi) **Analysis Classes**
 
@@ -218,6 +220,15 @@ Analysis classes are used in object-oriented analysis to identify the key classe
 
 **Bangla Translation:**  
 বিশ্লেষণ ক্লাসগুলি একটি সিস্টেমের প্রধান শ্রেণি এবং অবজেক্টগুলি চিহ্নিত করতে ব্যবহৃত হয় যা সিস্টেমে প্রয়োজনীয়।
+
+
+---
+
+### Xvii) **Class-Based Modeling**:  
+Class-based modeling represents the system's objects, their attributes, behaviors, and relationships in terms of classes and objects.
+
+**Bangla Translation:**  
+ক্লাস-ভিত্তিক মডেলিং সিস্টেমের অবজেক্টগুলি, তাদের বৈশিষ্ট্য এবং সম্পর্কগুলি ক্লাস এবং অবজেক্টের মাধ্যমে দেখায়।
 
 ---
 
@@ -229,6 +240,8 @@ A class diagram is a type of UML diagram that shows the structure of a system by
 **Bangla Translation:**  
 ক্লাস ডায়াগ্রাম একটি UML ডায়াগ্রাম যা সিস্টেমের শ্রেণি, তাদের বৈশিষ্ট্য, পদ্ধতি এবং অবজেক্টগুলির মধ্যে সম্পর্কগুলি প্রদর্শন করে।
 
+![Alt text](image-3.png)
+
 ---
 
 ### xviii) **CRC Modeling**
@@ -239,6 +252,8 @@ CRC (Class-Responsibility-Collaborator) modeling is a technique used in object-o
 **Bangla Translation:**  
 CRC মডেলিং ক্লাসের দায়িত্ব এবং তাদের সহযোগীদের প্রতিনিধিত্ব করে, এটি অবজেক্ট ওরিয়েন্টেড ডিজাইনে ব্যবহৃত একটি পদ্ধতি।
 
+![Alt text](image-2.png)
+
 ---
 
 ### xix) **Analysis Package**
@@ -248,6 +263,8 @@ An analysis package is a set of related analysis classes grouped together to sim
 
 **Bangla Translation:**  
 একটি বিশ্লেষণ প্যাকেজ হল একসাথে গোষ্ঠীভুক্ত সম্পর্কিত বিশ্লেষণ ক্লাসগুলির একটি সেট যা উন্নয়ন প্রক্রিয়াকে সহজ করে।
+
+![Alt text](image-1.png)
 
 ---
 

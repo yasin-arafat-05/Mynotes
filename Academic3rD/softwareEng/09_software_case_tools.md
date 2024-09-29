@@ -24,7 +24,7 @@ CASE tools can be broadly divided CASE tools can be broadly divided into the fol
 particular SDLC stage:
 
 
-- **Central Repository** - A **central repository**, like in the case of **Git**, is a single storage location where all project files, code, and documents are kept. In this repository:
+- i) **Central Repository** - A **central repository**, like in the case of **Git**, is a single storage location where all project files, code, and documents are kept. In this repository:
 
 - **All product specifications, requirement documents, diagrams, and reports** are stored, ensuring everyone on the team has access to the same, updated information.
 - It's similar to a **data dictionary**, where consistent and integrated information is stored and can be referenced during the project's lifecycle.
@@ -34,13 +34,13 @@ For example, in Git, the central repository serves as the main location where th
 
 ![image_image](img/img21.png)
 
-- **Upper Case Tools** - Upper CASE tools are used in planning, analysis and 
+- ii) **Upper Case Tools** - Upper CASE tools are used in planning, analysis and 
 design stages of SDLC.
 
-- **Lower Case Tools** - Lower CASE tools are used in implementation, testing and 
+- iii) **Lower Case Tools** - Lower CASE tools are used in implementation, testing and 
 maintenance.
 
-- **Integrated Case Tools** - Integrated CASE tools are helpful in all the stages of 
+- iv) **Integrated Case Tools** - Integrated CASE tools are helpful in all the stages of 
 SDLC, from Requirement gathering to Testing and documentation.
 
 
@@ -102,7 +102,6 @@ In summary, CASE tools help automate and manage different tasks throughout the s
 2. **DCCCP** – Design Tools, Configuration Management Tools, Change Control Tools, Code (Programming Tools), Prototype Tools
 3. **WQM** – Web Development Tools, Quality Assurance Tools, Maintenance Tools
 
----
 ---
 ---
 ---

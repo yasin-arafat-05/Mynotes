@@ -28,5 +28,4 @@
 
 ![Alt text](image-7.png)
 
-# finish: 
 

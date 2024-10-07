@@ -28,6 +28,5 @@
 
 ![Alt text](image-7.png)
 
-# hasnat khan: 
 
 

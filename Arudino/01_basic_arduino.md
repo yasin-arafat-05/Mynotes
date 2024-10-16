@@ -1,13 +1,26 @@
 
+<br>
+<br>
 
 # 1. Aurdino Board: 
+
+<br>
+<br>
+
 
 ![Alt text](img/img01.png)
 
 [explation_of_these_components](https://www.youtube.com/watch?v=6v_DF-zhrPw&list=PLV3C-t_tgjGE1USbPg2jrrDMu26F_M7K-)
 
 
+<br>
+<br>
+
 # 2. Three Basic Function to control arduino board:
+
+<br>
+<br>
+
 
 pinMode() <br>
 digitalWrite() <br>
@@ -62,7 +75,14 @@ void loop() {
 
 ```
 
+<br>
+<br>
+
 #  3. Serial communication:
+
+<br>
+<br>
+
 
 Serial.began() <br>
 Serial.read() <br>
@@ -135,8 +155,13 @@ void loop() {
 
 ```
 
+<br>
+<br>
 
 #  4. Numerical Data type in Aurdino:
+
+<br>
+<br>
 
 1. **`byte`**
    - **Declaration**: 
@@ -218,18 +243,36 @@ void loop() {
 | `unsigned long`    | 32 bits  | `0` to `4,294,967,295`                                    |
 
 
+<br>
+<br>
 
 # 5. Text data type:
+
+<br>
+<br>
 
 - char
 - String 
 
 
+<br>
+<br>
+
 #  6. Array:
+
+<br>
+<br>
 
 - how to insert,delete,update element in an array
 
+
+<br>
+<br>
+
 # 7. Digital input And output Function: 
+
+<br>
+<br>
 
 
 ### 1. **`pinMode(pin, mode)`**
@@ -283,6 +326,16 @@ void loop() {
 }
 
 ```
+
+<br>
+<br>
+
+# `8. Analog Input and Output Functions: `
+
+<br>
+<br>
+
+
 
 
 

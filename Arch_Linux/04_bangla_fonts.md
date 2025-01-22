@@ -1,6 +1,13 @@
 
 To fix the issue with broken Bangla fonts on Arch Linux, you can follow these steps:
 
+### 1. 1st Remove: 
+
+```bash 
+sudo pacman -R gnu-free-fonts
+```
+
+
 ### 1. **Install Bangla Fonts**
 First, make sure you have proper Bangla fonts installed. You can install some common Bangla fonts using the following command:
 

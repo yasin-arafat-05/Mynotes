@@ -43,9 +43,62 @@ else
     echo "$username is not a good boy."
 fi  # If ব্লক শেষ করার জন্য `fi` ব্যবহার করা হয়
 
-##################### All the operator #############################:
+######## All the operator ########:
 # https://www.geeksforgeeks.org/basic-operators-in-shell-scripting/
-####################################################################:
+##################################:
 
 
+<<looping
+<--- for loop  --->
+looping
+
+
+for ((num=1; num<=5; num++));
+do 
+    echo "Yasin Arafat."
+done
+
+
+# ################### While loop #############################
+
+<<whilelooping
+<---------- While loop ----------->
+whilelooping
+
+n=1
+while(( n<=5 ))
+do
+    echo "Number is: $n"
+    (( n=n+1 ))
+done
+
+
+echo ""
+
+(( n=0 ))
+
+
+while (( n%2== 0 && n<=10 ))
+do  
+    echo "Number even: $n "
+    (( n+=2 ))
+done
+
+
+# ################### Function ###################
+<<comments
+How to write a function in bash script:
+comments
+
+printingNumber(){
+    local n=$1
+while(( n<=5 ))
+do 
+    echo "I am printing $n"
+    (( n+=1 ))
+done
+}
+
+# calling the function with arguments
+printingNumber 1
 

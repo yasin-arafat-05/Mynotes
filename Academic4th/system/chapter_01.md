@@ -366,7 +366,7 @@ Developing a mobile banking app involves the planning phase, where the team deci
   - Slack: Communication tool for company teams.
   - SAP: Enterprise resource planning for organizations.
 
-## Business Drivers for Today’s Information Systems
+## Business Drivers for Today’s Information Systems (see question-10) 
 - **Cost Reduction**: Automate tasks to save money (e.g., inventory systems).
 - **Customer Satisfaction**: Improve experience with fast, personalized services (e.g., product recommendations).
 - **Competitive Advantage**: Use technology to stand out (e.g., real-time delivery tracking).
@@ -618,11 +618,3 @@ As a systems analyst conducting a **requirements analysis** for an individually 
 **ব্যাখ্যা**: যোগাযোগ ও সহযোগিতা সিস্টেম দ্রুত তথ্য শেয়ার, টিমওয়ার্ক, এবং রিমোট কাজ সহজ করে দক্ষতা বাড়ায়। স্ল্যাক, টিমস, বা জুমের মতো টুল সংস্থাগুলোকে আরও কার্যকর এবং উৎপাদনশীল করে।
 
 ---
-
-### Additional Notes for Exam
-- **Artifact Usage**: Questions i, ii, iii, v, and vi are wrapped in `<xaiArtifact>` tags where the response is a structured document (e.g., Markdown for explanations). Question iv (requirements analysis) is more procedural and doesn’t produce a standalone artifact, so it’s presented without the tag, following the guidelines.
-- **No Figures Needed**: None of the questions explicitly require diagrams. If you need to draw one (e.g., a flowchart for systems integration in question v), you can sketch boxes for systems connected by arrows labeled with tools like “MuleSoft” or “API.”
-- **Exam-Friendly**: All answers are concise, use simple language, and cover key points for easy memorization. The Bangla translations are clear and tailored for bilingual exam responses.
-- **Handling Ambiguous Input**: Since your latest input was unclear, I assumed you wanted the continuation of the previous questions. If you meant something else (e.g., a new question about ML pipelines, DVC, or a specific clarification), please provide more details, and I’ll respond promptly.
-
-If you need clarification, a specific question, a diagram description, or further assistance with any topic (e.g., DVC, ML pipelines, or systems analysis), let me know, and I’ll tailor the response to your needs!

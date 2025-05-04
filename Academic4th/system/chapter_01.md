@@ -446,39 +446,7 @@ Use **problem analysis techniques**, such as:
 
 **iii) Why do many new systems analysts fail to effectively analyze problems? What can they do to become more effective?**
 
-**English Answer**:
-**Why New Systems Analysts Fail**:
-- **Lack of Experience**: They may not know how to identify key issues or ask the right questions due to limited practical exposure.
-- **Poor Communication**: Failing to listen to or understand stakeholders leads to missing critical requirements.
-- **Overlooking Details**: They might assume things without verifying, resulting in incomplete analysis.
-- **Weak Problem-Solving Skills**: Difficulty breaking complex problems into smaller parts or prioritizing issues.
-- **Time Pressure**: Rushing under deadlines leads to superficial analysis instead of thorough investigation.
-
-**What They Can Do to Improve**:
-- **Ask Questions**: Engage stakeholders with open-ended questions to clarify needs.
-- **Use Structured Methods**: Apply techniques like flowcharts, interviews, or root cause analysis to organize analysis.
-- **Seek Mentorship**: Learn from experienced analysts to gain practical insights.
-- **Practice Active Listening**: Fully understand stakeholder concerns by listening carefully.
-- **Take Training**: Attend courses on systems analysis, communication, and problem-solving.
-
-**Bangla Translation and Explanation**:
-**প্রশ্ন**: কেন অনেক নতুন সিস্টেম বিশ্লেষক সমস্যা কার্যকরভাবে বিশ্লেষণ করতে ব্যর্থ হয়? তারা কী করতে পারে উন্নতির জন্য?  
-**উত্তর**:  
-**কেন নতুন বিশ্লেষক ব্যর্থ হয়**:  
-- **অভিজ্ঞতার অভাব**: বাস্তব অভিজ্ঞতা কম থাকায় তারা মূল সমস্যা চিহ্নিত করতে বা সঠিক প্রশ্ন করতে পারে না।  
-- **দুর্বল যোগাযোগ**: স্টেকহোল্ডারদের কথা না শোনা বা না বোঝায় গুরুত্বপূর্ণ চাহিদা মিস হয়।  
-- **বিস্তারিত মিস করা**: যাচাই না করে ধরে নেওয়ায় বিশ্লেষণ অসম্পূর্ণ হয়।  
-- **সমস্যা সমাধানের দক্ষতা কম**: জটিল সমস্যাকে ছোট অংশে ভাগ করতে বা অগ্রাধিকার দিতে অসুবিধা।  
-- **সময়ের চাপ**: সময় কম থাকায় গভীর বিশ্লেষণের পরিবর্তে তাড়াহুড়ো করা।  
-
-**উন্নতির জন্য কী করতে পারে**:  
-- **প্রশ্ন করা**: স্টেকহোল্ডারদের সাথে খোলা প্রশ্ন করে চাহিদা পরিষ্কার করা।  
-- **স্ট্রাকচার্ড পদ্ধতি ব্যবহার**: ফ্লোচার্ট, ইন্টারভিউ, বা রুট কজ অ্যানালিসিস ব্যবহার করে বিশ্লেষণ সংগঠিত করা।  
-- **মেন্টরশিপ নেওয়া**: অভিজ্ঞ বিশ্লেষকদের কাছ থেকে শিখে বাস্তব জ্ঞান অর্জন।  
-- **সক্রিয় শোনা**: স্টেকহোল্ডারদের কথা মনোযোগ দিয়ে শুনে পুরোপুরি বোঝা।  
-- **প্রশিক্ষণ নেওয়া**: সিস্টেম বিশ্লেষণ, যোগাযোগ, এবং সমস্যা সমাধানের কোর্স করা।  
-
-**ব্যাখ্যা**: নতুন বিশ্লেষকরা অভিজ্ঞতার অভাব, দুর্বল যোগাযোগ, বা তাড়াহুড়োর কারণে সমস্যা বিশ্লেষণে ব্যর্থ হয়। প্রশ্ন করা, পদ্ধতি ব্যবহার, এবং প্রশিক্ষণ নিয়ে তারা উন্নতি করতে পারে।
+### Chapter-3: question: 2
 
 ---
 

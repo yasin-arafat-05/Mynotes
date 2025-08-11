@@ -55,7 +55,24 @@
 
 ![image](img/img08.jpg)
 
+
 <br>
+<br>
+
+# `#05:8086 Architecture Diagram` 
+<br>
+<br>
+
+**Why there are two part of 8086?**
+
+- Cause for pipelining, see the lecture 02. To speed up the process. Here, BUI(Bus Interface Unit) is for fetching data from memory and EU(Exection unit) what we see in our 
+pipelining lecture. 
+
+
+![image](img/ALU_block.gif)
+`If there any sturucture like the above image, there will perform some operation.`
+
+![image](img/img09.jpg)
 
 
 

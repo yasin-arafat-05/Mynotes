@@ -19,6 +19,8 @@
 
 ![image](img/img03.jpg)
 
+![image](img/img11.jpg)
+
 ![image](img/img04.jpg)
 
 
@@ -95,7 +97,7 @@ we can say every instruction has its own unique opcode. But the problem is, in t
 size should be different size. And the maximum size of our instruction is 6bytes . That's why we have 6 bytes queue. Now, while executing an instruction the next 6 bytes of the program are store into the 6-byte prefetch queue. Now, from this queque instuction will go in the execution units. The question is how the queque will refill?? Yessss! 8086 is an 16 bits processor means it's have 16bits data bus. In 1 cycle it will contains 16bits or 2bytes. When, there will absence of 2bytes in the pre-fetch queque then cpu automatically fill up this queue again. But, our biggest instruction can be of 6bytes. Prefetch queque does not care this conditions. 
 
 
-![image](img/img10.png)
+![image](img/img10.png) <br>
 Normally, a program execute in sequential manners. But sometimes we have jumping operations (go to statement). Like in the above image instrucitons 1 is exectuting currently, but the next instruction is 9 then the pipeline fails when there is a branch. And immediately flush the 6bytes from queue then the processor goes to the new location and fetch the 6bytes of instructions into the queue.
 
 Summary:

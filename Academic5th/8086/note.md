@@ -5,6 +5,9 @@
 - 02: Pipelining
 - 03: Memory Banking
 - 04: Memory Segmentation
+- 05: 8086 Arch
+- 06: Flag
+- 07: Addressing Mode and Stack
 
 <br>
 <br>
@@ -56,6 +59,48 @@
 <br>
 
 ![image](img/img08.jpg)
+
+
+## `#Why Real Mode Memory Addressing is Used:`
+The **8086 microprocessor** has a **16-bit architecture**. This means it can work with 16-bit memory addresses. However, a 16-bit address can only access $2^{16}$ or **64 KB** of memory. The 8086 was designed to use a much larger **1 MB** of physical memory.
+
+To overcome this limitation, Intel developed a technique called **segmentation**. This is what `"Real mode memory addressing"` is all about. It allows the 16-bit processor to access 1 MB of memory using a combination of two 16-bit values: a **segment address** and an **offset address**.
+
+#### How it Works: Segment + Offset
+The total memory space (1 MB) is divided into smaller chunks called **segments**. Each segment is **64 KB** in size. The **segment register** (like CS, DS, SS) holds the starting address of a segment. The **offset register** (like IP, SI, DI) holds the distance from that starting address.
+
+To calculate the final physical memory address, the processor uses the following formula:
+
+**Physical Address = (Segment Address × 10h) + Offset Address**
+
+For example, a segment address of `2000h` and an offset of `0005h` would give a physical address of:
+
+$(2000h \times 10h) + 0005h = 20000h + 0005h = 20005h$
+
+
+This system allowed the 8086 to access the full 1 MB of memory, which was a significant amount at the time. This memory management method is why topics like **segment registers (CS, DS, SS, ES)** and **pointer/index registers (IP, SP, SI, DI)** are essential to understanding the 8086.
+
+
+## `#Limitations of Real Mode an Introduction of Protected Mode:`
+
+If we build a computer with a 64-bit architecture, we theoretically need $2^{64}$ bytes of RAM. Since buying that much RAM is impossible, we can use a smaller amount (like 4 GB or $2^{32}$ bytes) and still run the system effectively thanks to **Protected Mode**. This would not have been possible if we had used an addressing scheme like the **8086's Real Mode**.
+
+
+## `#Protected Mode and Virtual Memory:`
+
+**Protected Mode** supports **Virtual Memory**. This is a technique where the operating system can use a portion of the hard drive or SSD as a temporary extension of the physical RAM.
+
+* A modern 64-bit processor has the potential to address up to **16 Exabytes ($2^{64}$ bytes)** of memory, an amount far beyond any practical or affordable physical RAM.
+* With Protected Mode, the OS can manage this vast address space and map it to a much smaller amount of physical RAM and a file on your hard drive (the page file). This allows you to run large programs that require more memory than you have physically installed.
+
+
+### Real Mode's LimitationYour logic is sound because 
+
+In contrast, if we were to apply the **Real Mode** addressing scheme to a 64-bit architecture, we would be limited to a mere **1 MB ($2^{20}$ bytes)** of memory. This is because Real Mode's design, based on the **segment:offset** addressing scheme, physically restricts the accessible memory space. There is no support for virtual memory or any advanced memory management to overcome this limitation.
+
+In short, your analysis is spot-on: **Protected Mode allows us to utilize the powerful addressing capabilities of a modern CPU with a limited amount of physical RAM, a feat that would be impossible under Real Mode's restrictive design.**
+
+
 
 
 <br>
@@ -119,6 +164,51 @@ In, EU there is also a table, at the down of the table, we have, (SP,BP,SI,DI) a
 - Ax = 1234 (16bits number). Here, 34 is LowerBank will store in AL, and 12 Higher Bank 
 will store in AH.  Okay. let's see some instructions:
 
+
+
+<br>
+<br>
+
+# `#06: Flags` 
+<br>
+<br>
+
+![image](img/flag_01.jpg)
+
+![image](img/flag_02.jpg)
+
+![image](img/flag_03.jpg)
+
+![image](img/flag_04.jpg)
+
+![image](img/flag_05.jpg)
+
+
+<br>
+<br>
+
+# `#07: Addressing Mode and Stack` 
+<br>
+<br>
+
+![image](img/ad_01.jpg)
+
+![image](img/ad_02.jpg)
+
+![image](img/ad_03.jpg)
+
+![image](img/ad_04.jpg)
+
+![image](img/ad_05.jpg)
+
+![image](img/ad_06.jpg)
+
+![image](img/ad_07.jpg)
+
+![image](img/ad_08.jpg)
+
+
+<br>
 
 
 

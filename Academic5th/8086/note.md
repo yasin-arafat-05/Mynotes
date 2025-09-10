@@ -105,6 +105,7 @@ In contrast, if we were to apply the **Real Mode** addressing scheme to a 64-bit
 In short, your analysis is spot-on: **Protected Mode allows us to utilize the powerful addressing capabilities of a modern CPU with a limited amount of physical RAM, a feat that would be impossible under Real Mode's restrictive design.**
 
 
+# [Real_Mode_In_More_Details](https://github.com/yasin-arafat-05/Mynotes/blob/main/Academic5th/8086/80316.md)
 
 
 <br>

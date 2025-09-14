@@ -61,9 +61,7 @@ export PATH="$PATH":"$HOME/.pub-cache/bin"
 
 Windows এ (PowerShell এ):
 
-```powershell
-setx PATH "%PATH%;%USERPROFILE%\AppData\Local\Pub\Cache\bin"
-```
+**Set the path**
 
 ---
 

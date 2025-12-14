@@ -42,19 +42,28 @@ editorial.kalbela@gmail.com
 columnittefaq@gmail.com 
 ```
 
-```md
-samakal.editorial@gmail.com 
-max words: 700-800
-```
+---
 
 ```md
-editorial@prothomalo.com 200
+samakal.editorial@gmail.com 
 ```
+`max words: 700-800`
+
+---
+
+```md
+editorial@prothomalo.com 
+```
+`max words: 200`
+
+---
 
 ```md
 dailykaratoaeditorial@gmail.com 
-max words: 600
 ```
+`max words: 600`
+
+---
 
 ```md
 editorial.jugantor@gmail.com 
@@ -112,10 +121,12 @@ dinkaleditorial2024@gmail.com
 editorialdsa@gmail.com 
 ```
 
+---
 ```md
 kholakagojed2@gmail.com 
-maximum words: 1000
 ```
+`maximum words: 1000`
+---
 
 ```md
 dsangram@gmail.com 
@@ -140,8 +151,9 @@ deltatimes24@gmail.com
 
 ```md
 azadieditorial@gmail.com 
-max-word: 1000
 ```
+`max-word: 1000`
+
 
 ```md
 bkhaboreditorial@gmail.com 

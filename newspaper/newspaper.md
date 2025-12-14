@@ -236,14 +236,14 @@ islameralodsa@gmail.com
 
 
 ## **3: শিরোনাম email এর subject হিসেবে দিতে হবে ।**
-## **4: body তেও শিরোনাম থাকবে, কিন্তু সেইটাকে blod করে দিতে হবে । যতটুকু শিরোনাম সেইটাকে select করে format এ click করলে blod করার অপশন চলে আসবে । **
+## **4: body তেও শিরোনাম থাকবে, কিন্তু সেইটাকে blod করে দিতে হবে । যতটুকু শিরোনাম সেইটাকে select করে format এ click করলে blod করার অপশন চলে আসবে ।**
 
 ![image](img/img04.jpg)
 
 ![image](img/img05.jpg)
 
 
-## **সকাল ৮ থেকে ১২ টার মধ্যে পাঠাতে হবে । যদি time না মিললে তাহলে নিচের ছবির দেখানো 3 dot এ click করে schedule email sending করতে পারবো **
+## **সকাল ৮ থেকে ১২ টার মধ্যে পাঠাতে হবে । যদি time না মিললে তাহলে নিচের ছবির দেখানো 3 dot এ click করে schedule email sending করতে পারবো**
 
 ![image](img/img06.jpg)
 

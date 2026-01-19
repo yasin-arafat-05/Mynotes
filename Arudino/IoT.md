@@ -29,8 +29,8 @@
 <br>
 
 <div style="display: flex; justify-content: center;">
-    <img src="image-4.png" alt="Image 1" style="width: 49%; padding: 5px;">
-    <img src="img/gif_01.gif" alt="Image 2" style="width: 49%; padding: 5px;">
+    <img src="image-4.png" alt="Image 1" style="width: 40%; padding: 2px;">
+    <img src="img/gif_01.gif" alt="Image 2" style="width: 49%; padding: 2px;">
 </div>
 
 <br>
@@ -43,8 +43,8 @@
 <br>
 
 <div style="display: flex; justify-content: center;">
-    <img src="img/gif_02.gif" alt="Image 1" style="width: 49%; padding: 5px;">
-    <img src="img/gif_03.gif" alt="Image 2" style="width: 49%; padding: 5px;">
+    <img src="img/gif_02.gif" alt="Image 1" style="width: 49%; padding: 2px;">
+    <img src="img/gif_03.gif" alt="Image 2" style="width: 49%; padding: 2px;">
 </div>
 
 

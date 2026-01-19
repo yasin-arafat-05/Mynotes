@@ -56,6 +56,69 @@
 <br>
 <br>
 
-- Tesla VS Way
+# - [Tesla](https://www.youtube.com/watch?v=q1ZIbNWdS2o) VS [Waymo](https://www.youtube.com/watch?v=hA_-MkU0Nfw)
 
-![alt text](image-3.png)
+
+| Feature                | Waymo                                               | Tesla                                                 |                   |
+| ---------------------- | --------------------------------------------------- | ----------------------------------------------------- | ----------------- |
+| Autonomy level         | **Level 4** (driver not required in approved zones) | **Level 2+** (driver required, supervision mandatory) |                   |
+| True driverless        | Yes (in service areas)                              | No (still needs human)                                |                   |
+| Public rides available | Yes (Waymo One)                                     | No (only robotaxi pilot / supervised tests now)       |
+
+
+
+# - [tesla with and without ultrasonic sensors](https://www.youtube.com/watch?v=I_3y0N4sX8M) 
+
+
+<div style="display: flex; justify-content: center;">
+    <img src="image-3.png" alt="Image 1" style="width: 49%; padding: 2px;">
+    <img src="img/img02.png" alt="Image 2" style="width: 49%; padding: 2px;">
+</div>
+
+<br>
+
+#  - But can't make a tesla?
+
+<br>
+
+- [Blog How to make a simple self-driving car with neural network](https://medium.com/data-science/deeppicar-part-1-102e03c83f2c)
+
+
+<div style="display: flex; justify-content: center;">
+    <img src="image-6.png" alt="Image 1" style="width: 49%; padding: 2px;">
+    <img src="image-7.png" alt="Image 2" style="width: 49%; padding: 2px;">
+</div>
+
+
+<br>
+<br>
+
+# 5. Jetson Nano, Pixhawk, Pi, Arduino:
+
+<br>
+<br>
+
+
+<div style="display: flex; justify-content: center;">
+    <img src="img/img03.png" alt="Image 1" style="width: 49%; padding: 2px;">
+    <img src="img/img04.png" alt="Image 2" style="width: 49%; padding: 2px;">
+</div>
+
+<br>
+<br>
+
+<div style="display: flex; justify-content: center;">
+    <img src="image-8.png" alt="Image 1" style="width: 49%; padding: 2px;">
+    <img src="image-9.png" alt="Image 2" style="width: 49%; padding: 2px;">
+</div>
+
+
+<br>
+<br>
+
+
+## More Project: 
+- Hand Controlling Light 
+- Face Locking Door 
+
+<br>

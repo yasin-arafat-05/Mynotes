@@ -11,6 +11,15 @@
 
 `Type should be Basic. If not then linux will not be found the formated disk.`
 
+<br> 
+
+- /boot (fat32 must 1GB)
+- / (must ext4 minimum 50GB)
+- /home (must ext4)
+
+<br> 
+
+
 - Remember must download the latest arch linux file.    
 ```bash
 iwctl 

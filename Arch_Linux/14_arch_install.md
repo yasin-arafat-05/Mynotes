@@ -22,4 +22,8 @@ pacman -Sy
 pacman -S archinstall
 ```
 
-
+```text
+/boot -> fat32 -> 1GB
+/   -> ext4 -> (50-100)GB
+/home -> ext4 -> (rest_of_the_disk)
+```
